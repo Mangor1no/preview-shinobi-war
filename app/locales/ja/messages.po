@@ -1,0 +1,575 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2026-01-05 00:56+0700\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: ja\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#. placeholder {0}: cl.name
+#: app/components/class-system-section.tsx:298
+msgid "{0}"
+msgstr "{0}"
+
+#. placeholder {0}: new Date().getFullYear()
+#: app/components/footer.tsx:111
+msgid "© {0} 32BITZ COMPANY LIMITED. All rights reserved."
+msgstr "© {0} 32BITZ COMPANY LIMITED. 全著作権所有。"
+
+#: app/[lang]/terms-and-conditions/page.tsx:44
+msgid "1. Acceptance of Terms"
+msgstr "1. 利用規約の承認"
+
+#: app/[lang]/privacy-policy/page.tsx:44
+msgid "1. Introduction"
+msgstr "1. はじめに"
+
+#: app/[lang]/privacy-policy/page.tsx:217
+#~ msgid "10. Children's Privacy"
+#~ msgstr "10. 児童のプライバシー"
+
+#: app/[lang]/privacy-policy/page.tsx:217
+msgid "10. Children’s Privacy"
+msgstr ""
+
+#: app/[lang]/terms-and-conditions/page.tsx:218
+msgid "10. Updates & Modifications"
+msgstr "10. 更新と変更"
+
+#: app/[lang]/privacy-policy/page.tsx:228
+msgid "11. International Data Transfers"
+msgstr "11. 国際的なデータ転送"
+
+#: app/[lang]/terms-and-conditions/page.tsx:228
+msgid "11. Termination"
+msgstr "11. 終了"
+
+#: app/[lang]/terms-and-conditions/page.tsx:242
+msgid "12. Disclaimer of Warranties"
+msgstr "12. 保証の免責"
+
+#: app/[lang]/privacy-policy/page.tsx:238
+msgid "12. Your Rights"
+msgstr "12. お客様の権利"
+
+#: app/[lang]/privacy-policy/page.tsx:261
+msgid "13. Changes to This Policy"
+msgstr "13. 本ポリシーの変更"
+
+#: app/[lang]/terms-and-conditions/page.tsx:252
+msgid "13. Limitation of Liability"
+msgstr "13. 責任の制限"
+
+#: app/[lang]/privacy-policy/page.tsx:271
+msgid "14. Contact Information"
+msgstr "14. 連絡先情報"
+
+#: app/[lang]/terms-and-conditions/page.tsx:262
+msgid "14. Governing Law"
+msgstr "14. 準拠法"
+
+#: app/[lang]/terms-and-conditions/page.tsx:272
+msgid "15. Contact"
+msgstr "15. お問い合わせ"
+
+#: app/[lang]/terms-and-conditions/page.tsx:57
+msgid "2. Developer & Ownership"
+msgstr "2. 開発者と所有権"
+
+#: app/[lang]/privacy-policy/page.tsx:57
+msgid "2. Information We Collect"
+msgstr "2. 収集する情報"
+
+#: app/[lang]/terms-and-conditions/page.tsx:68
+msgid "3. Eligibility & Legal Capacity"
+msgstr "3. 適格性と法的能力"
+
+#: app/[lang]/privacy-policy/page.tsx:87
+msgid "3. Information We Do NOT Collect"
+msgstr "3. 収集しない情報"
+
+#: app/[lang]/privacy-policy/page.tsx:104
+msgid "4. How We Use Your Data"
+msgstr "4. データの使用方法"
+
+#: app/[lang]/terms-and-conditions/page.tsx:90
+msgid "4. User Accounts"
+msgstr "4. ユーザーアカウント"
+
+#: app/[lang]/privacy-policy/page.tsx:125
+msgid "5. Legal Basis for Processing"
+msgstr "5. 処理の法的根拠"
+
+#: app/[lang]/terms-and-conditions/page.tsx:118
+msgid "5. License Grant & Restrictions"
+msgstr "5. ライセンスの付与と制限"
+
+#: app/[lang]/privacy-policy/page.tsx:150
+msgid "6. Data Sharing & Third Parties"
+msgstr "6. データ共有と第三者"
+
+#: app/[lang]/terms-and-conditions/page.tsx:144
+msgid "6. Virtual Currency & Items"
+msgstr "6. 仮想通貨とアイテム"
+
+#: app/[lang]/privacy-policy/page.tsx:176
+msgid "7. Data Retention"
+msgstr "7. データの保持"
+
+#: app/[lang]/terms-and-conditions/page.tsx:169
+msgid "7. Events & Limited-Time Content"
+msgstr "7. イベントと期間限定コンテンツ"
+
+#: app/components/footer.tsx:74
+msgid "8:00 AM - 6:00 PM, every day (GMT +0)"
+msgstr "毎日 8:00 - 18:00 (GMT +0)"
+
+#: app/[lang]/privacy-policy/page.tsx:187
+msgid "8. Data Security"
+msgstr "8. データセキュリティ"
+
+#: app/[lang]/terms-and-conditions/page.tsx:188
+msgid "8. User Conduct"
+msgstr "8. ユーザーの行動"
+
+#: app/[lang]/privacy-policy/page.tsx:198
+msgid "9. Account Termination & Data Deletion"
+msgstr "9. アカウントの終了とデータの削除"
+
+#: app/[lang]/terms-and-conditions/page.tsx:207
+msgid "9. Data, Progress & Loss"
+msgstr "9. データ、進捗、損失"
+
+#: app/[lang]/privacy-policy/page.tsx:247
+msgid "Access your personal data"
+msgstr "個人データへのアクセス"
+
+#: app/[lang]/privacy-policy/page.tsx:202
+msgid "Account data may be deleted upon termination or inactivity"
+msgstr "アカウントデータは終了時または非アクティブ時に削除される場合があります"
+
+#: app/[lang]/privacy-policy/page.tsx:66
+msgid "Account identifiers (username, user ID)"
+msgstr "アカウント識別子（ユーザー名、ユーザーID）"
+
+#: app/[lang]/terms-and-conditions/page.tsx:105
+msgid "Account sharing, selling, or transferring is strictly prohibited."
+msgstr "アカウントの共有、販売、または譲渡は厳禁です。"
+
+#: app/[lang]/terms-and-conditions/page.tsx:232
+msgid "Accounts may be terminated at our sole discretion."
+msgstr "アカウントは当社の裁量で終了される場合があります。"
+
+#: app/[lang]/terms-and-conditions/page.tsx:147
+msgid "All virtual currency, items, characters, and rewards remain the sole property of 32BitZ Studio and have no real-world value."
+msgstr "すべての仮想通貨、アイテム、キャラクター、報酬は32BitZ Studioの専有財産であり、現実世界での価値はありません。"
+
+#: app/[lang]/privacy-policy/page.tsx:163
+msgid "Analytics and crash reporting"
+msgstr "分析とクラッシュレポート"
+
+#: app/[lang]/terms-and-conditions/page.tsx:200
+msgid "Attempts to disrupt servers will result in permanent bans."
+msgstr "サーバーを妨害する試みは永久BANの対象となります。"
+
+#: app/[lang]/news/page.tsx:46
+msgid "Back to Home"
+msgstr "ホームに戻る"
+
+#: app/[lang]/news/[slug]/page.tsx:104
+msgid "Back to News"
+msgstr "ニュースに戻る"
+
+#: app/[lang]/terms-and-conditions/page.tsx:157
+msgid "Balances may be adjusted for balancing or security reasons."
+msgstr "バランス調整またはセキュリティ上の理由により、残高が調整される場合があります。"
+
+#: app/[lang]/privacy-policy/page.tsx:94
+msgid "Bank account or credit card numbers (handled by third parties)"
+msgstr "銀行口座またはクレジットカード番号（第三者により処理）"
+
+#: app/[lang]/privacy-policy/page.tsx:99
+msgid "Biometric or sensitive personal data"
+msgstr "生体認証または機密個人データ"
+
+#: app/[lang]/terms-and-conditions/page.tsx:47
+msgid "By accessing, installing, downloading, registering, or playing <0> Shinobi War </0> (the “Game”), you acknowledge that you have read, understood, and agree to be legally bound by these Terms & Conditions (“Terms”). If you do not agree to these Terms, you must immediately discontinue all use of the Game."
+msgstr "<0> Shinobi War </0>（「ゲーム」）にアクセス、インストール、ダウンロード、登録、またはプレイすることにより、お客様はこれらの利用規約（「規約」）を読み、理解し、法的に拘束されることに同意したことを認めます。これらの規約に同意しない場合は、ゲームの使用を直ちに中止する必要があります。"
+
+#: app/[lang]/terms-and-conditions/page.tsx:47
+#~ msgid "By accessing, installing, downloading, registering, or playing<0> Shinobi War </0> (the \"Game\"), you acknowledge that you have read, understood, and agree to be legally bound by these Terms & Conditions (\"Terms\"). If you do not agree to these Terms, you must immediately discontinue all use of the Game."
+#~ msgstr "<0> Shinobi War </0>（「ゲーム」）にアクセス、インストール、ダウンロード、登録、またはプレイすることにより、お客様はこれらの利用規約（「規約」）を読み、理解し、法的に拘束されることに同意したことを認めます。これらの規約に同意しない場合は、ゲームの使用を直ちに中止する必要があります。"
+
+#: app/[lang]/terms-and-conditions/page.tsx:129
+msgid "Cheats, bots, exploits, or automation tools are forbidden."
+msgstr "チート、ボット、エクスプロイト、または自動化ツールは禁止されています。"
+
+#: app/components/class-system-section.tsx:233
+msgid "class system"
+msgstr "クラスシステム"
+
+#: app/[lang]/privacy-policy/page.tsx:160
+msgid "Cloud hosting and server infrastructure"
+msgstr "クラウドホスティングとサーバーインフラ"
+
+#: app/[lang]/privacy-policy/page.tsx:120
+msgid "Comply with legal obligations"
+msgstr "法的義務の遵守"
+
+#: app/components/footer.tsx:87
+msgid "Customer Support"
+msgstr "カスタマーサポート"
+
+#: app/[lang]/privacy-policy/page.tsx:212
+msgid "Deleted data may not be recoverable"
+msgstr "削除されたデータは回復できない場合があります"
+
+#: app/[lang]/privacy-policy/page.tsx:241
+msgid "Depending on your jurisdiction, you may have the right to:"
+msgstr "お客様の管轄区域によっては、以下の権利がある場合があります："
+
+#: app/[lang]/privacy-policy/page.tsx:114
+msgid "Detect cheating, fraud, or abuse"
+msgstr "チート、詐欺、または不正使用の検出"
+
+#: app/[lang]/privacy-policy/page.tsx:69
+msgid "Device and technical data (IP address, device type, OS)"
+msgstr "デバイスおよび技術データ（IPアドレス、デバイスタイプ、OS）"
+
+#: app/components/header.tsx:22
+msgid "DOWNLOAD"
+msgstr "ダウンロード"
+
+#: app/components/footer.tsx:90
+msgid "Download & Install"
+msgstr "ダウンロードとインストール"
+
+#: app/[lang]/terms-and-conditions/page.tsx:94
+msgid "Each user may create only one account unless expressly permitted."
+msgstr "明示的に許可されない限り、各ユーザーは1つのアカウントのみ作成できます。"
+
+#: app/components/footer.tsx:60
+msgid "Email"
+msgstr "メール"
+
+#: app/[lang]/privacy-policy/page.tsx:280
+#: app/[lang]/terms-and-conditions/page.tsx:279
+msgid "Email:"
+msgstr "メール："
+
+#: app/[lang]/terms-and-conditions/page.tsx:173
+msgid "Event content is temporary and may be removed at any time."
+msgstr "イベントコンテンツは一時的なものであり、いつでも削除される場合があります。"
+
+#: app/[lang]/terms-and-conditions/page.tsx:183
+msgid "Event rules may change without notice."
+msgstr "イベントルールは予告なく変更される場合があります。"
+
+#: app/[lang]/terms-and-conditions/page.tsx:197
+msgid "Exploiting bugs must be reported immediately."
+msgstr "バグの悪用は直ちに報告する必要があります。"
+
+#: app/components/header.tsx:26
+msgid "FANPAGE"
+msgstr "ファンページ"
+
+#: app/[lang]/terms-and-conditions/page.tsx:275
+msgid "For legal inquiries, contact:"
+msgstr "法的な問い合わせについては、以下にお問い合わせください："
+
+#: app/[lang]/privacy-policy/page.tsx:74
+msgid "Gameplay data (progress, stats, achievements, logs)"
+msgstr "ゲームプレイデータ（進捗、統計、実績、ログ）"
+
+#: app/components/header.tsx:27
+msgid "GROUP"
+msgstr "グループ"
+
+#: app/components/header.tsx:24
+msgid "GUIDE"
+msgstr "ガイド"
+
+#: app/components/news-section.tsx:53
+msgid "guides"
+msgstr "ガイド"
+
+#: app/[lang]/terms-and-conditions/page.tsx:192
+msgid "Harassment, hate speech, or abusive behavior is prohibited."
+msgstr "ハラスメント、ヘイトスピーチ、または虐待的な行動は禁止されています。"
+
+#: app/components/news-section.tsx:65
+msgid "highlights"
+msgstr "ハイライト"
+
+#: app/components/header.tsx:21
+msgid "HOME"
+msgstr "ホーム"
+
+#: app/[lang]/privacy-policy/page.tsx:274
+msgid "If you have questions regarding this Privacy Policy, contact:"
+msgstr "このプライバシーポリシーに関するご質問がある場合は、以下にお問い合わせください："
+
+#: app/[lang]/privacy-policy/page.tsx:117
+msgid "Improve gameplay balance and performance"
+msgstr "ゲームプレイのバランスとパフォーマンスの向上"
+
+#: app/[lang]/layout.tsx:24
+msgid "Join the ultimate ninja warfare. Choose your class, master your weapons, and dominate the battlefield."
+msgstr "究極の忍者戦争に参加しましょう。クラスを選択し、武器をマスターし、戦場を支配してください。"
+
+#. placeholder {0}: new Date().toISOString().split("T")[0]
+#: app/[lang]/privacy-policy/page.tsx:35
+#: app/[lang]/terms-and-conditions/page.tsx:35
+msgid "Last updated: {0}"
+msgstr "最終更新：{0}"
+
+#: app/[lang]/privacy-policy/page.tsx:145
+msgid "Legal obligations"
+msgstr "法的義務"
+
+#: app/[lang]/privacy-policy/page.tsx:140
+msgid "Legitimate interests (security, analytics, fraud prevention)"
+msgstr "正当な利益（セキュリティ、分析、不正防止）"
+
+#: app/components/footer.tsx:81
+msgid "More Information"
+msgstr "詳細情報"
+
+#: app/components/news-section.tsx:41
+msgid "news"
+msgstr "ニュース"
+
+#: app/[lang]/news/page.tsx:50
+msgid "News"
+msgstr "ニュース"
+
+#: app/components/header.tsx:23
+msgid "NEWS"
+msgstr "ニュース"
+
+#: app/[lang]/terms-and-conditions/page.tsx:235
+msgid "No compensation will be provided for terminated accounts."
+msgstr "終了されたアカウントには補償は提供されません。"
+
+#: app/[lang]/news/page.tsx:56
+#: app/components/news-section.tsx:88
+msgid "No news available"
+msgstr "ニュースがありません"
+
+#: app/[lang]/terms-and-conditions/page.tsx:154
+msgid "No refunds for lost or modified virtual items."
+msgstr "紛失または変更された仮想アイテムの返金はありません。"
+
+#: app/[lang]/privacy-policy/page.tsx:253
+msgid "Object to certain processing activities"
+msgstr "特定の処理活動への異議申し立て"
+
+#: app/[lang]/privacy-policy/page.tsx:108
+msgid "Operate and maintain the Game"
+msgstr "ゲームの運営と保守"
+
+#: app/[lang]/privacy-policy/page.tsx:166
+msgid "Payment processors (transaction references only)"
+msgstr "決済プロセッサー（取引参照のみ）"
+
+#: app/[lang]/privacy-policy/page.tsx:137
+msgid "Performance of a contract (providing the Game)"
+msgstr "契約の履行（ゲームの提供）"
+
+#: app/[lang]/privacy-policy/page.tsx:29
+#: app/components/footer.tsx:102
+msgid "Privacy Policy"
+msgstr "プライバシーポリシー"
+
+#: app/[lang]/privacy-policy/page.tsx:111
+msgid "Provide customer support"
+msgstr "カスタマーサポートの提供"
+
+#: app/[lang]/privacy-policy/page.tsx:77
+msgid "Purchase and transaction metadata (non-payment credentials)"
+msgstr "購入および取引メタデータ（非決済認証情報）"
+
+#: app/components/news-section.tsx:97
+msgid "Read More"
+msgstr "続きを読む"
+
+#: app/[lang]/privacy-policy/page.tsx:91
+msgid "Real-world identity documents"
+msgstr "実世界の身分証明書"
+
+#: app/[lang]/privacy-policy/page.tsx:250
+msgid "Request correction or deletion"
+msgstr "訂正または削除の要求"
+
+#: app/[lang]/terms-and-conditions/page.tsx:134
+msgid "Reverse engineering or data mining is prohibited."
+msgstr "リバースエンジニアリングまたはデータマイニングは禁止されています。"
+
+#: app/[lang]/terms-and-conditions/page.tsx:178
+msgid "Rewards not claimed within event periods are forfeited."
+msgstr "イベント期間内に受け取らなかった報酬は没収されます。"
+
+#: app/[lang]/privacy-policy/page.tsx:32
+#: app/[lang]/terms-and-conditions/page.tsx:32
+msgid "Shinobi War - Developed by 32BitZ Studio"
+msgstr "Shinobi War - 32BitZ Studio開発"
+
+#: app/[lang]/layout.tsx:23
+msgid "Shinobi War - Epic Ninja Battle Game"
+msgstr "Shinobi War - 壮大な忍者バトルゲーム"
+
+#: app/[lang]/terms-and-conditions/page.tsx:60
+#~ msgid "Shinobi War is developed, owned, and operated by<0> 32BitZ Studio </0> (\"we\", \"us\", \"our\"). All rights not expressly granted to you are reserved by 32BitZ Studio."
+#~ msgstr "Shinobi Warは<0> 32BitZ Studio </0>（「当社」「私たち」「当社の」）によって開発、所有、運営されています。明示的に付与されていないすべての権利は32BitZ Studioに留保されます。"
+
+#: app/[lang]/terms-and-conditions/page.tsx:60
+msgid "Shinobi War is developed, owned, and operated by<0> 32BitZ Studio </0> (“we”, “us”, “our”). All rights not expressly granted to you are reserved by 32BitZ Studio."
+msgstr "Shinobi Warは<0> 32BitZ Studio </0>（「当社」「私たち」「当社の」）によって開発、所有、運営されています。明示的に付与されていないすべての権利は32BitZ Studioに留保されます。"
+
+#: app/[lang]/privacy-policy/page.tsx:220
+msgid "Shinobi War is not intended for children under the minimum legal age required in your jurisdiction. We do not knowingly collect personal data from children."
+msgstr "Shinobi Warは、お客様の管轄区域で要求される最低法定年齢未満の児童を対象としていません。当社は意図的に児童から個人データを収集することはありません。"
+
+#: app/[lang]/privacy-policy/page.tsx:207
+msgid "Some data may be retained for legal or security reasons"
+msgstr "一部のデータは法的またはセキュリティ上の理由により保持される場合があります"
+
+#: app/[lang]/privacy-policy/page.tsx:82
+msgid "Support communications and reports"
+msgstr "サポート通信とレポート"
+
+#: app/components/footer.tsx:71
+msgid "Support hours"
+msgstr "サポート時間"
+
+#: app/[lang]/terms-and-conditions/page.tsx:29
+#: app/components/footer.tsx:96
+msgid "Terms & Conditions"
+msgstr "利用規約"
+
+#: app/[lang]/terms-and-conditions/page.tsx:245
+#~ msgid "The Game is provided \"AS IS\" and \"AS AVAILABLE\" without warranties of any kind."
+#~ msgstr "ゲームは「現状のまま」「利用可能な状態で」提供され、いかなる保証もありません。"
+
+#: app/[lang]/terms-and-conditions/page.tsx:245
+msgid "The Game is provided “AS IS” and “AS AVAILABLE” without warranties of any kind."
+msgstr ""
+
+#: app/[lang]/terms-and-conditions/page.tsx:265
+msgid "These Terms are governed by the laws applicable in the jurisdiction where 32BitZ Studio operates."
+msgstr "これらの規約は、32BitZ Studioが運営する管轄区域で適用される法律に準拠します。"
+
+#: app/[lang]/privacy-policy/page.tsx:47
+#~ msgid "This Privacy Policy explains how <0>32BitZ Studio</0>(\"we\", \"us\", \"our\") collects, uses, stores, and protects personal data when you access or play <1>Shinobi War</1> (the \"Game\"). By using the Game, you consent to the practices described in this Privacy Policy."
+#~ msgstr "このプライバシーポリシーは、<0>32BitZ Studio</0>（「当社」「私たち」「当社の」）が<1>Shinobi War</1>（「ゲーム」）にアクセスまたはプレイする際に、個人データをどのように収集、使用、保存、保護するかを説明しています。ゲームを使用することにより、お客様はこのプライバシーポリシーに記載されている慣行に同意したことになります。"
+
+#: app/[lang]/privacy-policy/page.tsx:47
+msgid "This Privacy Policy explains how <0>32BitZ Studio</0>(“we”, “us”, “our”) collects, uses, stores, and protects personal data when you access or play <1>Shinobi War</1> (the “Game”). By using the Game, you consent to the practices described in this Privacy Policy."
+msgstr ""
+
+#: app/[lang]/terms-and-conditions/page.tsx:255
+msgid "To the fullest extent permitted by law, 32BitZ Studio shall not be liable for indirect, incidental, or consequential damages."
+msgstr "法律で許可される最大限の範囲で、32BitZ Studioは間接的、偶発的、または結果的な損害について責任を負いません。"
+
+#: app/components/header.tsx:25
+msgid "TOP UP"
+msgstr "チャージ"
+
+#: app/[lang]/terms-and-conditions/page.tsx:137
+msgid "Unauthorized modifications will result in permanent bans."
+msgstr "不正な変更は永久BANの対象となります。"
+
+#: app/[lang]/terms-and-conditions/page.tsx:162
+msgid "Virtual assets are non-transferable and non-refundable."
+msgstr "仮想資産は譲渡不可で返金不可です。"
+
+#: app/components/visual-gallery-section.tsx:92
+msgid "visual gallery"
+msgstr "ビジュアルギャラリー"
+
+#: app/components/footer.tsx:50
+msgid "Warning: Playing more than 180 minutes per day may negatively affect your health."
+msgstr "警告：1日180分以上プレイすると、健康に悪影響を与える可能性があります。"
+
+#: app/[lang]/privacy-policy/page.tsx:170
+msgid "We do <0>not</0> sell or rent your personal data."
+msgstr "当社はお客様の個人データを<0>販売または賃貸しません</0>。"
+
+#: app/[lang]/terms-and-conditions/page.tsx:210
+msgid "We do not guarantee preservation of progress, data, rankings, or virtual assets. Data loss may occur due to updates, resets, or security actions."
+msgstr "進捗、データ、ランキング、または仮想資産の保存を保証するものではありません。更新、リセット、またはセキュリティ対策により、データ損失が発生する場合があります。"
+
+#: app/[lang]/terms-and-conditions/page.tsx:121
+msgid "We grant you a limited, revocable, non-exclusive, non-transferable license to use the Game solely for personal, non-commercial purposes."
+msgstr "当社は、個人の非商業目的のみでゲームを使用するための、限定的、取消可能、非独占的、譲渡不可のライセンスを付与します。"
+
+#: app/[lang]/privacy-policy/page.tsx:190
+msgid "We implement reasonable technical and organizational measures to protect your data. However, no system is 100% secure, and we cannot guarantee absolute security."
+msgstr "当社は、お客様のデータを保護するために合理的な技術的および組織的措置を実施しています。ただし、システムは100%安全ではなく、絶対的なセキュリティを保証することはできません。"
+
+#: app/[lang]/privacy-policy/page.tsx:60
+msgid "We may collect the following categories of information:"
+msgstr "当社は以下のカテゴリの情報を収集する場合があります："
+
+#: app/[lang]/privacy-policy/page.tsx:153
+msgid "We may share limited data with trusted third-party service providers strictly for operational purposes, such as:"
+msgstr "当社は、運営目的のために、信頼できる第三者サービスプロバイダーと限定的なデータを共有する場合があります。例："
+
+#: app/[lang]/terms-and-conditions/page.tsx:111
+msgid "We may suspend or terminate accounts without prior notice."
+msgstr "当社は事前通知なくアカウントを停止または終了する場合があります。"
+
+#: app/[lang]/privacy-policy/page.tsx:264
+msgid "We may update this Privacy Policy at any time. Continued use of the Game constitutes acceptance of the updated Policy."
+msgstr "当社は、このプライバシーポリシーをいつでも更新する場合があります。ゲームの継続的な使用は、更新されたポリシーの受諾を構成します。"
+
+#: app/[lang]/privacy-policy/page.tsx:128
+msgid "We process personal data based on one or more of the following:"
+msgstr "当社は、以下の1つ以上に基づいて個人データを処理します："
+
+#: app/[lang]/terms-and-conditions/page.tsx:221
+msgid "We reserve the right to modify, update, suspend, or discontinue any part of the Game at any time without liability."
+msgstr "当社は、責任を負うことなく、いつでもゲームの任意の部分を変更、更新、一時停止、または中止する権利を留保します。"
+
+#: app/[lang]/privacy-policy/page.tsx:179
+msgid "We retain personal data only for as long as necessary to fulfill the purposes outlined in this Policy, unless a longer retention period is required by law."
+msgstr "当社は、法律でより長い保持期間が要求されない限り、このポリシーに記載されている目的を達成するために必要な期間のみ個人データを保持します。"
+
+#: app/[lang]/privacy-policy/page.tsx:256
+msgid "Withdraw consent where applicable"
+msgstr "該当する場合、同意の撤回"
+
+#: app/[lang]/news/[slug]/page.tsx:114
+msgid "Written by"
+msgstr "執筆者"
+
+#: app/[lang]/terms-and-conditions/page.tsx:100
+msgid "You are responsible for all activity under your account."
+msgstr "お客様は、お客様のアカウント下のすべての活動に責任を負います。"
+
+#: app/[lang]/terms-and-conditions/page.tsx:83
+msgid "You are solely responsible for compliance with local laws."
+msgstr "お客様は、現地法の遵守について単独で責任を負います。"
+
+#: app/[lang]/terms-and-conditions/page.tsx:77
+msgid "You must have full legal capacity to enter into a binding agreement."
+msgstr "お客様は、拘束力のある契約を締結するための完全な法的能力を持っている必要があります。"
+
+#: app/[lang]/terms-and-conditions/page.tsx:72
+msgid "You must meet the minimum age requirement in your jurisdiction."
+msgstr "お客様は、お客様の管轄区域の最低年齢要件を満たしている必要があります。"
+
+#: app/[lang]/privacy-policy/page.tsx:134
+msgid "Your consent"
+msgstr "お客様の同意"
+
+#: app/[lang]/privacy-policy/page.tsx:231
+msgid "Your data may be processed or stored on servers located outside your country. By using the Game, you consent to such transfers."
+msgstr "お客様のデータは、お客様の国以外のサーバーで処理または保存される場合があります。ゲームを使用することにより、お客様はそのような転送に同意したことになります。"

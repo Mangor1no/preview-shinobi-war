@@ -2,7 +2,9 @@
 
 import Image from "next/image";
 import { useState } from "react";
-import Link from "next/link";
+import LinkWithLocale from "@/app/components/link-with-locale";
+import { Trans } from "@lingui/react/macro";
+import { LanguageSelector } from "@/app/components/language-selector";
 
 export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -16,13 +18,13 @@ export default function Header() {
   };
 
   const navLinks = [
-    { href: "/", label: "HOME" },
-    { href: "#", label: "DOWNLOAD" },
-    { href: "/news", label: "NEWS" },
-    { href: "#", label: "GUIDE" },
-    { href: "#", label: "TOP UP" },
-    { href: "#", label: "FANPAGE" },
-    { href: "#", label: "GROUP" },
+    { href: "/", label: <Trans>HOME</Trans> },
+    { href: "#", label: <Trans>DOWNLOAD</Trans> },
+    { href: "/news", label: <Trans>NEWS</Trans> },
+    { href: "#", label: <Trans>GUIDE</Trans> },
+    { href: "#", label: <Trans>TOP UP</Trans> },
+    { href: "#", label: <Trans>FANPAGE</Trans> },
+    { href: "#", label: <Trans>GROUP</Trans> },
   ];
 
   return (
@@ -30,26 +32,27 @@ export default function Header() {
       <header className="container mx-auto fixed top-0 left-0 right-0 z-50">
         <div className="flex items-center justify-between py-2 px-4">
           {/* Logo */}
-          <Link href="/" className="flex items-center gap-3">
+          <LinkWithLocale href="/" className="flex items-center gap-3">
             <Image
               src="/images/logo.png"
               alt="ShinobiWAR"
               width={100}
-              height={100}
+              height={56}
             />
-          </Link>
+          </LinkWithLocale>
 
           {/* Desktop Navigation */}
           <nav className="hidden md:flex items-center gap-4 lg:gap-6">
-            {navLinks.map((link) => (
-              <Link
-                key={link.label}
+            {navLinks.map((link, index) => (
+              <LinkWithLocale
+                key={index}
                 href={link.href}
                 className="text-white uppercase text-xs lg:text-sm hover:text-red-400 transition-colors font-semibold tracking-wider"
               >
                 {link.label}
-              </Link>
+              </LinkWithLocale>
             ))}
+            <LanguageSelector />
           </nav>
 
           {/* Burger Menu Button */}
@@ -118,16 +121,19 @@ export default function Header() {
           </button>
 
           <div className="flex flex-col gap-6 mt-8">
-            {navLinks.map((link) => (
-              <Link
-                key={link.label}
+            {navLinks.map((link, index) => (
+              <LinkWithLocale
+                key={index}
                 href={link.href}
                 onClick={closeMenu}
                 className="text-white uppercase text-2xl hover:text-red-400 transition-colors font-semibold tracking-wider py-4 border-b border-white/10"
               >
                 {link.label}
-              </Link>
+              </LinkWithLocale>
             ))}
+            <div className="pt-4 border-t border-white/10">
+              <LanguageSelector onLanguageChange={closeMenu} />
+            </div>
           </div>
         </div>
       </nav>

@@ -10,8 +10,8 @@ export default function HeroSection() {
           src="/images/hero/bg.png"
           alt="Hero Background"
           quality={100}
-          width={1920}
-          height={1080}
+          width={3840}
+          height={2160}
           className="object-cover absolute inset-0 size-full"
         />
       </div>
@@ -58,8 +58,8 @@ export default function HeroSection() {
         <Image
           src="/images/hero/characters.png"
           alt="Shinobi"
-          width={1920}
-          height={1000}
+          width={1700}
+          height={992}
           quality={100}
         />
       </div>

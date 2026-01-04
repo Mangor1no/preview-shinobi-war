@@ -1,4 +1,6 @@
 import Image from "next/image";
+import LinkWithLocale from "@/app/components/link-with-locale";
+import { Trans } from "@lingui/react/macro";
 
 export default function Footer() {
   return (
@@ -45,14 +47,18 @@ export default function Footer() {
               </a>
             </div>
             <p className="text-gray-400  max-w-xs">
-              Warning: Playing more than 180 minutes per day may negatively
-              affect your health.
+              <Trans>
+                Warning: Playing more than 180 minutes per day may negatively
+                affect your health.
+              </Trans>
             </p>
           </div>
 
           <div className="flex flex-col gap-10">
             <div className="flex flex-col gap-2">
-              <span className="font-semibold">Email</span>
+              <span className="font-semibold">
+                <Trans>Email</Trans>
+              </span>
               <a
                 href="mailto:support@32bitz.com"
                 className=" hover:text-red-400 transition-colors"
@@ -61,28 +67,40 @@ export default function Footer() {
               </a>
             </div>
             <div className="flex flex-col gap-2">
-              <span className="font-semibold">Support hours</span>
-              <p className="">8:00 AM - 6:00 PM, every day (GMT +7)</p>
+              <span className="font-semibold">
+                <Trans>Support hours</Trans>
+              </span>
+              <p className="">
+                <Trans>8:00 AM - 6:00 PM, every day (GMT +0)</Trans>
+              </p>
             </div>
           </div>
           <div className="flex flex-col gap-2">
             <p className="">
-              <span className="font-semibold">More Information</span>
+              <span className="font-semibold">
+                <Trans>More Information</Trans>
+              </span>
               <br />
             </p>
             <div className="flex flex-col gap-2">
               <a href="#" className=" hover:text-red-400 transition-colors">
-                Customer Support
+                <Trans>Customer Support</Trans>
               </a>
               <a href="#" className=" hover:text-red-400 transition-colors">
-                Download & Install
+                <Trans>Download & Install</Trans>
               </a>
-              <a href="#" className=" hover:text-red-400 transition-colors">
-                Term & Condition
-              </a>
-              <a href="#" className=" hover:text-red-400 transition-colors">
-                Privacy Policy
-              </a>
+              <LinkWithLocale
+                href="/terms-and-conditions"
+                className=" hover:text-red-400 transition-colors"
+              >
+                <Trans>Terms & Conditions</Trans>
+              </LinkWithLocale>
+              <LinkWithLocale
+                href="/privacy-policy"
+                className=" hover:text-red-400 transition-colors"
+              >
+                <Trans>Privacy Policy</Trans>
+              </LinkWithLocale>
             </div>
           </div>
         </div>
@@ -90,8 +108,10 @@ export default function Footer() {
 
       <div className="py-4 border-t-2 border-red-900/50">
         <p className="container mx-auto text-gray-400 ">
-          © {new Date().getFullYear()} 32BITZ COMPANY LIMITED. All rights
-          reserved.
+          <Trans>
+            © {new Date().getFullYear()} 32BITZ COMPANY LIMITED. All rights
+            reserved.
+          </Trans>
         </p>
       </div>
     </footer>

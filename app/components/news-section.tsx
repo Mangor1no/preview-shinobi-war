@@ -4,7 +4,8 @@ import { blackpast } from "@/utils/fonts";
 import { useState } from "react";
 import Image from "next/image";
 import type { NewsMetadata } from "@/utils/get-posts";
-import Link from "next/link";
+import LinkWithLocale from "@/app/components/link-with-locale";
+import { Trans } from "@lingui/react/macro";
 
 interface NewsSectionProps {
   news: NewsMetadata[];
@@ -36,7 +37,9 @@ export default function NewsSection({ news }: NewsSectionProps) {
             className={activeTab === "news" ? "text-blue-500" : "text-blue-900"}
             onClick={() => setActiveTab("news")}
           >
-            <h2>news</h2>
+            <h2>
+              <Trans>news</Trans>
+            </h2>
           </button>
           <span className="text-blue-600/40">•</span>
           <button
@@ -46,7 +49,9 @@ export default function NewsSection({ news }: NewsSectionProps) {
             }
             onClick={() => setActiveTab("guides")}
           >
-            <h2>guides</h2>
+            <h2>
+              <Trans>guides</Trans>
+            </h2>
           </button>
           <span className="text-blue-600/40">•</span>
           <button
@@ -56,7 +61,9 @@ export default function NewsSection({ news }: NewsSectionProps) {
             }
             onClick={() => setActiveTab("highlights")}
           >
-            <h2>highlights</h2>
+            <h2>
+              <Trans>highlights</Trans>
+            </h2>
           </button>
         </div>
         <div className="rounded-xl border-3 border-[#DA102250] p-6 bg-black/80 max-w-2xl">
@@ -71,22 +78,24 @@ export default function NewsSection({ news }: NewsSectionProps) {
             {news.length > 0 ? (
               news.map((item) => (
                 <li key={item.slug} className="py-3 font-bold">
-                  <Link href={`/news/${item.slug}`}>{item.title}</Link>
+                  <LinkWithLocale href={`/news/${item.slug}`}>
+                    {item.title}
+                  </LinkWithLocale>
                 </li>
               ))
             ) : (
               <li className="py-3 font-bold text-white/50">
-                No news available
+                <Trans>No news available</Trans>
               </li>
             )}
           </ul>
         </div>
-        <Link
+        <LinkWithLocale
           href="/news"
           className="inline-block bg-red-700 hover:bg-red-800 transition-all text-white font-medium px-4 py-1 rounded-md"
         >
-          Read More
-        </Link>
+          <Trans>Read More</Trans>
+        </LinkWithLocale>
       </div>
     </section>
   );

@@ -1,0 +1,575 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2026-01-05 00:56+0700\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: kr\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#. placeholder {0}: cl.name
+#: app/components/class-system-section.tsx:298
+msgid "{0}"
+msgstr "{0}"
+
+#. placeholder {0}: new Date().getFullYear()
+#: app/components/footer.tsx:111
+msgid "© {0} 32BITZ COMPANY LIMITED. All rights reserved."
+msgstr "© {0} 32BITZ COMPANY LIMITED. 모든 권리 보유."
+
+#: app/[lang]/terms-and-conditions/page.tsx:44
+msgid "1. Acceptance of Terms"
+msgstr "1. 약관 동의"
+
+#: app/[lang]/privacy-policy/page.tsx:44
+msgid "1. Introduction"
+msgstr "1. 소개"
+
+#: app/[lang]/privacy-policy/page.tsx:217
+#~ msgid "10. Children's Privacy"
+#~ msgstr "10. 아동의 개인정보 보호"
+
+#: app/[lang]/privacy-policy/page.tsx:217
+msgid "10. Children’s Privacy"
+msgstr ""
+
+#: app/[lang]/terms-and-conditions/page.tsx:218
+msgid "10. Updates & Modifications"
+msgstr "10. 업데이트 및 수정"
+
+#: app/[lang]/privacy-policy/page.tsx:228
+msgid "11. International Data Transfers"
+msgstr "11. 국제 데이터 전송"
+
+#: app/[lang]/terms-and-conditions/page.tsx:228
+msgid "11. Termination"
+msgstr "11. 종료"
+
+#: app/[lang]/terms-and-conditions/page.tsx:242
+msgid "12. Disclaimer of Warranties"
+msgstr "12. 보증의 면책"
+
+#: app/[lang]/privacy-policy/page.tsx:238
+msgid "12. Your Rights"
+msgstr "12. 귀하의 권리"
+
+#: app/[lang]/privacy-policy/page.tsx:261
+msgid "13. Changes to This Policy"
+msgstr "13. 본 정책의 변경"
+
+#: app/[lang]/terms-and-conditions/page.tsx:252
+msgid "13. Limitation of Liability"
+msgstr "13. 책임의 제한"
+
+#: app/[lang]/privacy-policy/page.tsx:271
+msgid "14. Contact Information"
+msgstr "14. 연락처 정보"
+
+#: app/[lang]/terms-and-conditions/page.tsx:262
+msgid "14. Governing Law"
+msgstr "14. 준거법"
+
+#: app/[lang]/terms-and-conditions/page.tsx:272
+msgid "15. Contact"
+msgstr "15. 문의"
+
+#: app/[lang]/terms-and-conditions/page.tsx:57
+msgid "2. Developer & Ownership"
+msgstr "2. 개발자 및 소유권"
+
+#: app/[lang]/privacy-policy/page.tsx:57
+msgid "2. Information We Collect"
+msgstr "2. 수집하는 정보"
+
+#: app/[lang]/terms-and-conditions/page.tsx:68
+msgid "3. Eligibility & Legal Capacity"
+msgstr "3. 자격 및 법적 능력"
+
+#: app/[lang]/privacy-policy/page.tsx:87
+msgid "3. Information We Do NOT Collect"
+msgstr "3. 수집하지 않는 정보"
+
+#: app/[lang]/privacy-policy/page.tsx:104
+msgid "4. How We Use Your Data"
+msgstr "4. 데이터 사용 방법"
+
+#: app/[lang]/terms-and-conditions/page.tsx:90
+msgid "4. User Accounts"
+msgstr "4. 사용자 계정"
+
+#: app/[lang]/privacy-policy/page.tsx:125
+msgid "5. Legal Basis for Processing"
+msgstr "5. 처리의 법적 근거"
+
+#: app/[lang]/terms-and-conditions/page.tsx:118
+msgid "5. License Grant & Restrictions"
+msgstr "5. 라이선스 부여 및 제한"
+
+#: app/[lang]/privacy-policy/page.tsx:150
+msgid "6. Data Sharing & Third Parties"
+msgstr "6. 데이터 공유 및 제3자"
+
+#: app/[lang]/terms-and-conditions/page.tsx:144
+msgid "6. Virtual Currency & Items"
+msgstr "6. 가상 통화 및 아이템"
+
+#: app/[lang]/privacy-policy/page.tsx:176
+msgid "7. Data Retention"
+msgstr "7. 데이터 보관"
+
+#: app/[lang]/terms-and-conditions/page.tsx:169
+msgid "7. Events & Limited-Time Content"
+msgstr "7. 이벤트 및 한정 콘텐츠"
+
+#: app/components/footer.tsx:74
+msgid "8:00 AM - 6:00 PM, every day (GMT +0)"
+msgstr "매일 8:00 - 18:00 (GMT +0)"
+
+#: app/[lang]/privacy-policy/page.tsx:187
+msgid "8. Data Security"
+msgstr "8. 데이터 보안"
+
+#: app/[lang]/terms-and-conditions/page.tsx:188
+msgid "8. User Conduct"
+msgstr "8. 사용자 행위"
+
+#: app/[lang]/privacy-policy/page.tsx:198
+msgid "9. Account Termination & Data Deletion"
+msgstr "9. 계정 종료 및 데이터 삭제"
+
+#: app/[lang]/terms-and-conditions/page.tsx:207
+msgid "9. Data, Progress & Loss"
+msgstr "9. 데이터, 진행 상황 및 손실"
+
+#: app/[lang]/privacy-policy/page.tsx:247
+msgid "Access your personal data"
+msgstr "개인 데이터에 액세스"
+
+#: app/[lang]/privacy-policy/page.tsx:202
+msgid "Account data may be deleted upon termination or inactivity"
+msgstr "계정 데이터는 종료 또는 비활성화 시 삭제될 수 있습니다"
+
+#: app/[lang]/privacy-policy/page.tsx:66
+msgid "Account identifiers (username, user ID)"
+msgstr "계정 식별자(사용자명, 사용자 ID)"
+
+#: app/[lang]/terms-and-conditions/page.tsx:105
+msgid "Account sharing, selling, or transferring is strictly prohibited."
+msgstr "계정 공유, 판매 또는 양도는 엄격히 금지됩니다."
+
+#: app/[lang]/terms-and-conditions/page.tsx:232
+msgid "Accounts may be terminated at our sole discretion."
+msgstr "계정은 당사의 단독 재량으로 종료될 수 있습니다."
+
+#: app/[lang]/terms-and-conditions/page.tsx:147
+msgid "All virtual currency, items, characters, and rewards remain the sole property of 32BitZ Studio and have no real-world value."
+msgstr "모든 가상 통화, 아이템, 캐릭터 및 보상은 32BitZ Studio의 전유 재산이며 실제 가치가 없습니다."
+
+#: app/[lang]/privacy-policy/page.tsx:163
+msgid "Analytics and crash reporting"
+msgstr "분석 및 크래시 보고"
+
+#: app/[lang]/terms-and-conditions/page.tsx:200
+msgid "Attempts to disrupt servers will result in permanent bans."
+msgstr "서버 방해 시도는 영구 차단으로 이어집니다."
+
+#: app/[lang]/news/page.tsx:46
+msgid "Back to Home"
+msgstr "홈으로 돌아가기"
+
+#: app/[lang]/news/[slug]/page.tsx:104
+msgid "Back to News"
+msgstr "뉴스로 돌아가기"
+
+#: app/[lang]/terms-and-conditions/page.tsx:157
+msgid "Balances may be adjusted for balancing or security reasons."
+msgstr "밸런스 조정 또는 보안상의 이유로 잔액이 조정될 수 있습니다."
+
+#: app/[lang]/privacy-policy/page.tsx:94
+msgid "Bank account or credit card numbers (handled by third parties)"
+msgstr "은행 계좌 또는 신용카드 번호(제3자 처리)"
+
+#: app/[lang]/privacy-policy/page.tsx:99
+msgid "Biometric or sensitive personal data"
+msgstr "생체 인식 또는 민감한 개인 데이터"
+
+#: app/[lang]/terms-and-conditions/page.tsx:47
+msgid "By accessing, installing, downloading, registering, or playing <0> Shinobi War </0> (the “Game”), you acknowledge that you have read, understood, and agree to be legally bound by these Terms & Conditions (“Terms”). If you do not agree to these Terms, you must immediately discontinue all use of the Game."
+msgstr "<0> Shinobi War </0>(\"게임\")에 액세스, 설치, 다운로드, 등록 또는 플레이함으로써 귀하는 본 약관(\"약관\")을 읽고 이해했으며 법적으로 구속되는 것에 동의했음을 인정합니다. 본 약관에 동의하지 않는 경우 게임 사용을 즉시 중단해야 합니다."
+
+#: app/[lang]/terms-and-conditions/page.tsx:47
+#~ msgid "By accessing, installing, downloading, registering, or playing<0> Shinobi War </0> (the \"Game\"), you acknowledge that you have read, understood, and agree to be legally bound by these Terms & Conditions (\"Terms\"). If you do not agree to these Terms, you must immediately discontinue all use of the Game."
+#~ msgstr "<0> Shinobi War </0>(\"게임\")에 액세스, 설치, 다운로드, 등록 또는 플레이함으로써 귀하는 본 약관(\"약관\")을 읽고 이해했으며 법적으로 구속되는 것에 동의했음을 인정합니다. 본 약관에 동의하지 않는 경우 게임 사용을 즉시 중단해야 합니다."
+
+#: app/[lang]/terms-and-conditions/page.tsx:129
+msgid "Cheats, bots, exploits, or automation tools are forbidden."
+msgstr "치트, 봇, 익스플로잇 또는 자동화 도구는 금지됩니다."
+
+#: app/components/class-system-section.tsx:233
+msgid "class system"
+msgstr "직업 시스템"
+
+#: app/[lang]/privacy-policy/page.tsx:160
+msgid "Cloud hosting and server infrastructure"
+msgstr "클라우드 호스팅 및 서버 인프라"
+
+#: app/[lang]/privacy-policy/page.tsx:120
+msgid "Comply with legal obligations"
+msgstr "법적 의무 준수"
+
+#: app/components/footer.tsx:87
+msgid "Customer Support"
+msgstr "고객 지원"
+
+#: app/[lang]/privacy-policy/page.tsx:212
+msgid "Deleted data may not be recoverable"
+msgstr "삭제된 데이터는 복구할 수 없을 수 있습니다"
+
+#: app/[lang]/privacy-policy/page.tsx:241
+msgid "Depending on your jurisdiction, you may have the right to:"
+msgstr "귀하의 관할권에 따라 다음 권리가 있을 수 있습니다:"
+
+#: app/[lang]/privacy-policy/page.tsx:114
+msgid "Detect cheating, fraud, or abuse"
+msgstr "치팅, 사기 또는 남용 탐지"
+
+#: app/[lang]/privacy-policy/page.tsx:69
+msgid "Device and technical data (IP address, device type, OS)"
+msgstr "기기 및 기술 데이터(IP 주소, 기기 유형, OS)"
+
+#: app/components/header.tsx:22
+msgid "DOWNLOAD"
+msgstr "다운로드"
+
+#: app/components/footer.tsx:90
+msgid "Download & Install"
+msgstr "다운로드 및 설치"
+
+#: app/[lang]/terms-and-conditions/page.tsx:94
+msgid "Each user may create only one account unless expressly permitted."
+msgstr "명시적으로 허용되지 않는 한 각 사용자는 하나의 계정만 생성할 수 있습니다."
+
+#: app/components/footer.tsx:60
+msgid "Email"
+msgstr "이메일"
+
+#: app/[lang]/privacy-policy/page.tsx:280
+#: app/[lang]/terms-and-conditions/page.tsx:279
+msgid "Email:"
+msgstr "이메일:"
+
+#: app/[lang]/terms-and-conditions/page.tsx:173
+msgid "Event content is temporary and may be removed at any time."
+msgstr "이벤트 콘텐츠는 임시적이며 언제든지 제거될 수 있습니다."
+
+#: app/[lang]/terms-and-conditions/page.tsx:183
+msgid "Event rules may change without notice."
+msgstr "이벤트 규칙은 사전 통지 없이 변경될 수 있습니다."
+
+#: app/[lang]/terms-and-conditions/page.tsx:197
+msgid "Exploiting bugs must be reported immediately."
+msgstr "버그 악용은 즉시 신고해야 합니다."
+
+#: app/components/header.tsx:26
+msgid "FANPAGE"
+msgstr "팬페이지"
+
+#: app/[lang]/terms-and-conditions/page.tsx:275
+msgid "For legal inquiries, contact:"
+msgstr "법적 문의는 다음으로 연락하세요:"
+
+#: app/[lang]/privacy-policy/page.tsx:74
+msgid "Gameplay data (progress, stats, achievements, logs)"
+msgstr "게임플레이 데이터(진행 상황, 통계, 업적, 로그)"
+
+#: app/components/header.tsx:27
+msgid "GROUP"
+msgstr "그룹"
+
+#: app/components/header.tsx:24
+msgid "GUIDE"
+msgstr "가이드"
+
+#: app/components/news-section.tsx:53
+msgid "guides"
+msgstr "가이드"
+
+#: app/[lang]/terms-and-conditions/page.tsx:192
+msgid "Harassment, hate speech, or abusive behavior is prohibited."
+msgstr "괴롭힘, 혐오 발언 또는 학대 행위는 금지됩니다."
+
+#: app/components/news-section.tsx:65
+msgid "highlights"
+msgstr "하이라이트"
+
+#: app/components/header.tsx:21
+msgid "HOME"
+msgstr "홈"
+
+#: app/[lang]/privacy-policy/page.tsx:274
+msgid "If you have questions regarding this Privacy Policy, contact:"
+msgstr "본 개인정보 보호정책에 대한 질문이 있으시면 다음으로 연락하세요:"
+
+#: app/[lang]/privacy-policy/page.tsx:117
+msgid "Improve gameplay balance and performance"
+msgstr "게임플레이 밸런스 및 성능 개선"
+
+#: app/[lang]/layout.tsx:24
+msgid "Join the ultimate ninja warfare. Choose your class, master your weapons, and dominate the battlefield."
+msgstr "궁극의 닌자 전쟁에 참여하세요. 클래스를 선택하고, 무기를 마스터하며, 전장을 지배하세요."
+
+#. placeholder {0}: new Date().toISOString().split("T")[0]
+#: app/[lang]/privacy-policy/page.tsx:35
+#: app/[lang]/terms-and-conditions/page.tsx:35
+msgid "Last updated: {0}"
+msgstr "최종 업데이트: {0}"
+
+#: app/[lang]/privacy-policy/page.tsx:145
+msgid "Legal obligations"
+msgstr "법적 의무"
+
+#: app/[lang]/privacy-policy/page.tsx:140
+msgid "Legitimate interests (security, analytics, fraud prevention)"
+msgstr "정당한 이익(보안, 분석, 사기 방지)"
+
+#: app/components/footer.tsx:81
+msgid "More Information"
+msgstr "추가 정보"
+
+#: app/components/news-section.tsx:41
+msgid "news"
+msgstr "뉴스"
+
+#: app/[lang]/news/page.tsx:50
+msgid "News"
+msgstr "뉴스"
+
+#: app/components/header.tsx:23
+msgid "NEWS"
+msgstr "뉴스"
+
+#: app/[lang]/terms-and-conditions/page.tsx:235
+msgid "No compensation will be provided for terminated accounts."
+msgstr "종료된 계정에 대해서는 보상이 제공되지 않습니다."
+
+#: app/[lang]/news/page.tsx:56
+#: app/components/news-section.tsx:88
+msgid "No news available"
+msgstr "뉴스 없음"
+
+#: app/[lang]/terms-and-conditions/page.tsx:154
+msgid "No refunds for lost or modified virtual items."
+msgstr "분실 또는 수정된 가상 아이템에 대한 환불은 없습니다."
+
+#: app/[lang]/privacy-policy/page.tsx:253
+msgid "Object to certain processing activities"
+msgstr "특정 처리 활동에 대한 이의 제기"
+
+#: app/[lang]/privacy-policy/page.tsx:108
+msgid "Operate and maintain the Game"
+msgstr "게임 운영 및 유지보수"
+
+#: app/[lang]/privacy-policy/page.tsx:166
+msgid "Payment processors (transaction references only)"
+msgstr "결제 처리업체(거래 참조만)"
+
+#: app/[lang]/privacy-policy/page.tsx:137
+msgid "Performance of a contract (providing the Game)"
+msgstr "계약 이행(게임 제공)"
+
+#: app/[lang]/privacy-policy/page.tsx:29
+#: app/components/footer.tsx:102
+msgid "Privacy Policy"
+msgstr "개인정보 보호정책"
+
+#: app/[lang]/privacy-policy/page.tsx:111
+msgid "Provide customer support"
+msgstr "고객 지원 제공"
+
+#: app/[lang]/privacy-policy/page.tsx:77
+msgid "Purchase and transaction metadata (non-payment credentials)"
+msgstr "구매 및 거래 메타데이터(비결제 자격 증명)"
+
+#: app/components/news-section.tsx:97
+msgid "Read More"
+msgstr "더 읽기"
+
+#: app/[lang]/privacy-policy/page.tsx:91
+msgid "Real-world identity documents"
+msgstr "실제 신분 증명서"
+
+#: app/[lang]/privacy-policy/page.tsx:250
+msgid "Request correction or deletion"
+msgstr "수정 또는 삭제 요청"
+
+#: app/[lang]/terms-and-conditions/page.tsx:134
+msgid "Reverse engineering or data mining is prohibited."
+msgstr "리버스 엔지니어링 또는 데이터 마이닝은 금지됩니다."
+
+#: app/[lang]/terms-and-conditions/page.tsx:178
+msgid "Rewards not claimed within event periods are forfeited."
+msgstr "이벤트 기간 내에 받지 않은 보상은 몰수됩니다."
+
+#: app/[lang]/privacy-policy/page.tsx:32
+#: app/[lang]/terms-and-conditions/page.tsx:32
+msgid "Shinobi War - Developed by 32BitZ Studio"
+msgstr "Shinobi War - 32BitZ Studio 개발"
+
+#: app/[lang]/layout.tsx:23
+msgid "Shinobi War - Epic Ninja Battle Game"
+msgstr "Shinobi War - 에픽 닌자 배틀 게임"
+
+#: app/[lang]/terms-and-conditions/page.tsx:60
+#~ msgid "Shinobi War is developed, owned, and operated by<0> 32BitZ Studio </0> (\"we\", \"us\", \"our\"). All rights not expressly granted to you are reserved by 32BitZ Studio."
+#~ msgstr "Shinobi War는 <0> 32BitZ Studio </0>(\"당사\", \"우리\", \"당사의\")에서 개발, 소유 및 운영합니다. 명시적으로 부여되지 않은 모든 권리는 32BitZ Studio에 보유됩니다."
+
+#: app/[lang]/terms-and-conditions/page.tsx:60
+msgid "Shinobi War is developed, owned, and operated by<0> 32BitZ Studio </0> (“we”, “us”, “our”). All rights not expressly granted to you are reserved by 32BitZ Studio."
+msgstr "Shinobi War는 <0> 32BitZ Studio </0>(\"당사\", \"우리\", \"당사의\")에서 개발, 소유 및 운영합니다. 명시적으로 부여되지 않은 모든 권리는 32BitZ Studio에 보유됩니다."
+
+#: app/[lang]/privacy-policy/page.tsx:220
+msgid "Shinobi War is not intended for children under the minimum legal age required in your jurisdiction. We do not knowingly collect personal data from children."
+msgstr "Shinobi War는 귀하의 관할권에서 요구되는 최소 법정 연령 미만의 아동을 대상으로 하지 않습니다. 당사는 의도적으로 아동으로부터 개인 데이터를 수집하지 않습니다."
+
+#: app/[lang]/privacy-policy/page.tsx:207
+msgid "Some data may be retained for legal or security reasons"
+msgstr "일부 데이터는 법적 또는 보안상의 이유로 보관될 수 있습니다"
+
+#: app/[lang]/privacy-policy/page.tsx:82
+msgid "Support communications and reports"
+msgstr "지원 통신 및 보고서"
+
+#: app/components/footer.tsx:71
+msgid "Support hours"
+msgstr "지원 시간"
+
+#: app/[lang]/terms-and-conditions/page.tsx:29
+#: app/components/footer.tsx:96
+msgid "Terms & Conditions"
+msgstr "이용약관"
+
+#: app/[lang]/terms-and-conditions/page.tsx:245
+#~ msgid "The Game is provided \"AS IS\" and \"AS AVAILABLE\" without warranties of any kind."
+#~ msgstr "게임은 \"있는 그대로\" 및 \"이용 가능한 상태로\" 제공되며 어떠한 종류의 보증도 없습니다."
+
+#: app/[lang]/terms-and-conditions/page.tsx:245
+msgid "The Game is provided “AS IS” and “AS AVAILABLE” without warranties of any kind."
+msgstr ""
+
+#: app/[lang]/terms-and-conditions/page.tsx:265
+msgid "These Terms are governed by the laws applicable in the jurisdiction where 32BitZ Studio operates."
+msgstr "본 약관은 32BitZ Studio가 운영하는 관할권에서 적용되는 법률에 따라 규율됩니다."
+
+#: app/[lang]/privacy-policy/page.tsx:47
+#~ msgid "This Privacy Policy explains how <0>32BitZ Studio</0>(\"we\", \"us\", \"our\") collects, uses, stores, and protects personal data when you access or play <1>Shinobi War</1> (the \"Game\"). By using the Game, you consent to the practices described in this Privacy Policy."
+#~ msgstr "본 개인정보 보호정책은 <0>32BitZ Studio</0>(\"당사\", \"우리\", \"당사의\")가 <1>Shinobi War</1>(\"게임\")에 액세스하거나 플레이할 때 개인 데이터를 수집, 사용, 저장 및 보호하는 방법을 설명합니다. 게임을 사용함으로써 귀하는 본 개인정보 보호정책에 설명된 관행에 동의하는 것입니다."
+
+#: app/[lang]/privacy-policy/page.tsx:47
+msgid "This Privacy Policy explains how <0>32BitZ Studio</0>(“we”, “us”, “our”) collects, uses, stores, and protects personal data when you access or play <1>Shinobi War</1> (the “Game”). By using the Game, you consent to the practices described in this Privacy Policy."
+msgstr ""
+
+#: app/[lang]/terms-and-conditions/page.tsx:255
+msgid "To the fullest extent permitted by law, 32BitZ Studio shall not be liable for indirect, incidental, or consequential damages."
+msgstr "법률이 허용하는 최대 범위 내에서 32BitZ Studio는 간접적, 부수적 또는 결과적 손해에 대해 책임을 지지 않습니다."
+
+#: app/components/header.tsx:25
+msgid "TOP UP"
+msgstr "충전"
+
+#: app/[lang]/terms-and-conditions/page.tsx:137
+msgid "Unauthorized modifications will result in permanent bans."
+msgstr "무단 수정은 영구 차단으로 이어집니다."
+
+#: app/[lang]/terms-and-conditions/page.tsx:162
+msgid "Virtual assets are non-transferable and non-refundable."
+msgstr "가상 자산은 양도 불가능하며 환불 불가능합니다."
+
+#: app/components/visual-gallery-section.tsx:92
+msgid "visual gallery"
+msgstr "비주얼 갤러리"
+
+#: app/components/footer.tsx:50
+msgid "Warning: Playing more than 180 minutes per day may negatively affect your health."
+msgstr "경고: 하루에 180분 이상 플레이하면 건강에 부정적인 영향을 줄 수 있습니다."
+
+#: app/[lang]/privacy-policy/page.tsx:170
+msgid "We do <0>not</0> sell or rent your personal data."
+msgstr "당사는 귀하의 개인 데이터를 <0>판매하거나 임대하지 않습니다</0>."
+
+#: app/[lang]/terms-and-conditions/page.tsx:210
+msgid "We do not guarantee preservation of progress, data, rankings, or virtual assets. Data loss may occur due to updates, resets, or security actions."
+msgstr "당사는 진행 상황, 데이터, 순위 또는 가상 자산의 보존을 보장하지 않습니다. 업데이트, 재설정 또는 보안 조치로 인해 데이터 손실이 발생할 수 있습니다."
+
+#: app/[lang]/terms-and-conditions/page.tsx:121
+msgid "We grant you a limited, revocable, non-exclusive, non-transferable license to use the Game solely for personal, non-commercial purposes."
+msgstr "당사는 개인적이고 비상업적 목적으로만 게임을 사용할 수 있는 제한적이고 취소 가능하며 비독점적이고 양도 불가능한 라이선스를 부여합니다."
+
+#: app/[lang]/privacy-policy/page.tsx:190
+msgid "We implement reasonable technical and organizational measures to protect your data. However, no system is 100% secure, and we cannot guarantee absolute security."
+msgstr "당사는 귀하의 데이터를 보호하기 위해 합리적인 기술적 및 조직적 조치를 구현합니다. 그러나 어떤 시스템도 100% 안전하지 않으며 절대적인 보안을 보장할 수 없습니다."
+
+#: app/[lang]/privacy-policy/page.tsx:60
+msgid "We may collect the following categories of information:"
+msgstr "당사는 다음 범주의 정보를 수집할 수 있습니다:"
+
+#: app/[lang]/privacy-policy/page.tsx:153
+msgid "We may share limited data with trusted third-party service providers strictly for operational purposes, such as:"
+msgstr "당사는 운영 목적으로만 신뢰할 수 있는 제3자 서비스 제공업체와 제한된 데이터를 공유할 수 있습니다. 예:"
+
+#: app/[lang]/terms-and-conditions/page.tsx:111
+msgid "We may suspend or terminate accounts without prior notice."
+msgstr "당사는 사전 통지 없이 계정을 일시 중지하거나 종료할 수 있습니다."
+
+#: app/[lang]/privacy-policy/page.tsx:264
+msgid "We may update this Privacy Policy at any time. Continued use of the Game constitutes acceptance of the updated Policy."
+msgstr "당사는 언제든지 본 개인정보 보호정책을 업데이트할 수 있습니다. 게임을 계속 사용하는 것은 업데이트된 정책에 대한 동의를 의미합니다."
+
+#: app/[lang]/privacy-policy/page.tsx:128
+msgid "We process personal data based on one or more of the following:"
+msgstr "당사는 다음 중 하나 이상을 기반으로 개인 데이터를 처리합니다:"
+
+#: app/[lang]/terms-and-conditions/page.tsx:221
+msgid "We reserve the right to modify, update, suspend, or discontinue any part of the Game at any time without liability."
+msgstr "당사는 책임 없이 언제든지 게임의 일부를 수정, 업데이트, 일시 중지 또는 중단할 권리를 보유합니다."
+
+#: app/[lang]/privacy-policy/page.tsx:179
+msgid "We retain personal data only for as long as necessary to fulfill the purposes outlined in this Policy, unless a longer retention period is required by law."
+msgstr "당사는 법률에서 더 긴 보관 기간을 요구하지 않는 한, 본 정책에 명시된 목적을 달성하는 데 필요한 기간 동안만 개인 데이터를 보관합니다."
+
+#: app/[lang]/privacy-policy/page.tsx:256
+msgid "Withdraw consent where applicable"
+msgstr "해당되는 경우 동의 철회"
+
+#: app/[lang]/news/[slug]/page.tsx:114
+msgid "Written by"
+msgstr "작성자"
+
+#: app/[lang]/terms-and-conditions/page.tsx:100
+msgid "You are responsible for all activity under your account."
+msgstr "귀하는 귀하의 계정 하의 모든 활동에 대해 책임을 집니다."
+
+#: app/[lang]/terms-and-conditions/page.tsx:83
+msgid "You are solely responsible for compliance with local laws."
+msgstr "귀하는 현지 법률 준수에 대해 전적으로 책임을 집니다."
+
+#: app/[lang]/terms-and-conditions/page.tsx:77
+msgid "You must have full legal capacity to enter into a binding agreement."
+msgstr "귀하는 구속력 있는 계약을 체결할 수 있는 완전한 법적 능력을 가져야 합니다."
+
+#: app/[lang]/terms-and-conditions/page.tsx:72
+msgid "You must meet the minimum age requirement in your jurisdiction."
+msgstr "귀하는 귀하의 관할권에서 요구되는 최소 연령 요건을 충족해야 합니다."
+
+#: app/[lang]/privacy-policy/page.tsx:134
+msgid "Your consent"
+msgstr "귀하의 동의"
+
+#: app/[lang]/privacy-policy/page.tsx:231
+msgid "Your data may be processed or stored on servers located outside your country. By using the Game, you consent to such transfers."
+msgstr "귀하의 데이터는 귀하의 국가 외부에 위치한 서버에서 처리되거나 저장될 수 있습니다. 게임을 사용함으로써 귀하는 그러한 전송에 동의하는 것입니다."

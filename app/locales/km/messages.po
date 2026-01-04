@@ -1,0 +1,575 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2026-01-05 00:56+0700\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: km\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#. placeholder {0}: cl.name
+#: app/components/class-system-section.tsx:298
+msgid "{0}"
+msgstr "{0}"
+
+#. placeholder {0}: new Date().getFullYear()
+#: app/components/footer.tsx:111
+msgid "© {0} 32BITZ COMPANY LIMITED. All rights reserved."
+msgstr "© {0} 32BITZ COMPANY LIMITED. រក្សាសិទ្ធិទាំងអស់។"
+
+#: app/[lang]/terms-and-conditions/page.tsx:44
+msgid "1. Acceptance of Terms"
+msgstr "1. ការទទួលយកលក្ខខណ្ឌ"
+
+#: app/[lang]/privacy-policy/page.tsx:44
+msgid "1. Introduction"
+msgstr "1. សេចក្តីផ្តើម"
+
+#: app/[lang]/privacy-policy/page.tsx:217
+#~ msgid "10. Children's Privacy"
+#~ msgstr "10. ភាពឯកជនរបស់កុមារ"
+
+#: app/[lang]/privacy-policy/page.tsx:217
+msgid "10. Children’s Privacy"
+msgstr ""
+
+#: app/[lang]/terms-and-conditions/page.tsx:218
+msgid "10. Updates & Modifications"
+msgstr "10. ការអាប់ដេត និងការកែប្រែ"
+
+#: app/[lang]/privacy-policy/page.tsx:228
+msgid "11. International Data Transfers"
+msgstr "11. ការផ្ទេរទិន្នន័យអន្តរជាតិ"
+
+#: app/[lang]/terms-and-conditions/page.tsx:228
+msgid "11. Termination"
+msgstr "11. ការបញ្ចប់"
+
+#: app/[lang]/terms-and-conditions/page.tsx:242
+msgid "12. Disclaimer of Warranties"
+msgstr "12. ការបដិសេធការធានា"
+
+#: app/[lang]/privacy-policy/page.tsx:238
+msgid "12. Your Rights"
+msgstr "12. សិទ្ធិរបស់អ្នក"
+
+#: app/[lang]/privacy-policy/page.tsx:261
+msgid "13. Changes to This Policy"
+msgstr "13. ការផ្លាស់ប្តូរនយោបាយនេះ"
+
+#: app/[lang]/terms-and-conditions/page.tsx:252
+msgid "13. Limitation of Liability"
+msgstr "13. ការកំណត់កំហិតនៃការទទួលខុសត្រូវ"
+
+#: app/[lang]/privacy-policy/page.tsx:271
+msgid "14. Contact Information"
+msgstr "14. ព័ត៌មានទំនាក់ទំនង"
+
+#: app/[lang]/terms-and-conditions/page.tsx:262
+msgid "14. Governing Law"
+msgstr "14. ច្បាប់ដែលគ្រប់គ្រង"
+
+#: app/[lang]/terms-and-conditions/page.tsx:272
+msgid "15. Contact"
+msgstr "15. ទំនាក់ទំនង"
+
+#: app/[lang]/terms-and-conditions/page.tsx:57
+msgid "2. Developer & Ownership"
+msgstr "2. អ្នកអភិវឌ្ឍន៍ និងកម្មសិទ្ធិ"
+
+#: app/[lang]/privacy-policy/page.tsx:57
+msgid "2. Information We Collect"
+msgstr "2. ព័ត៌មានដែលយើងប្រមូល"
+
+#: app/[lang]/terms-and-conditions/page.tsx:68
+msgid "3. Eligibility & Legal Capacity"
+msgstr "3. សមត្ថភាព និងសមត្ថភាពផ្លូវច្បាប់"
+
+#: app/[lang]/privacy-policy/page.tsx:87
+msgid "3. Information We Do NOT Collect"
+msgstr "3. ព័ត៌មានដែលយើងមិនប្រមូល"
+
+#: app/[lang]/privacy-policy/page.tsx:104
+msgid "4. How We Use Your Data"
+msgstr "4. របៀបដែលយើងប្រើប្រាស់ទិន្នន័យរបស់អ្នក"
+
+#: app/[lang]/terms-and-conditions/page.tsx:90
+msgid "4. User Accounts"
+msgstr "4. គណនីអ្នកប្រើប្រាស់"
+
+#: app/[lang]/privacy-policy/page.tsx:125
+msgid "5. Legal Basis for Processing"
+msgstr "5. មូលដ្ឋានផ្លូវច្បាប់សម្រាប់ការដំណើរការ"
+
+#: app/[lang]/terms-and-conditions/page.tsx:118
+msgid "5. License Grant & Restrictions"
+msgstr "5. ការផ្តល់អាជ្ញាប័ណ្ណ និងការកំណត់កំហិត"
+
+#: app/[lang]/privacy-policy/page.tsx:150
+msgid "6. Data Sharing & Third Parties"
+msgstr "6. ការចែករំលែកទិន្នន័យ និងភាគីទីបី"
+
+#: app/[lang]/terms-and-conditions/page.tsx:144
+msgid "6. Virtual Currency & Items"
+msgstr "6. រូបិយប័ណ្ណផ្លូវការ និងធាតុ"
+
+#: app/[lang]/privacy-policy/page.tsx:176
+msgid "7. Data Retention"
+msgstr "7. ការរក្សាទុកទិន្នន័យ"
+
+#: app/[lang]/terms-and-conditions/page.tsx:169
+msgid "7. Events & Limited-Time Content"
+msgstr "7. ព្រឹត្តិការណ៍ និងមាតិកាពេលវេលាកំណត់"
+
+#: app/components/footer.tsx:74
+msgid "8:00 AM - 6:00 PM, every day (GMT +0)"
+msgstr "រៀងរាល់ថ្ងៃ 8:00 - 18:00 (GMT +0)"
+
+#: app/[lang]/privacy-policy/page.tsx:187
+msgid "8. Data Security"
+msgstr "8. សុវត្ថិភាពទិន្នន័យ"
+
+#: app/[lang]/terms-and-conditions/page.tsx:188
+msgid "8. User Conduct"
+msgstr "8. ឥរិយាបថអ្នកប្រើប្រាស់"
+
+#: app/[lang]/privacy-policy/page.tsx:198
+msgid "9. Account Termination & Data Deletion"
+msgstr "9. ការបញ្ចប់គណនី និងការលុបទិន្នន័យ"
+
+#: app/[lang]/terms-and-conditions/page.tsx:207
+msgid "9. Data, Progress & Loss"
+msgstr "9. ទិន្នន័យ ការវិវត្ត និងការបាត់បង់"
+
+#: app/[lang]/privacy-policy/page.tsx:247
+msgid "Access your personal data"
+msgstr "ចូលប្រើប្រាស់ទិន្នន័យផ្ទាល់ខ្លួនរបស់អ្នក"
+
+#: app/[lang]/privacy-policy/page.tsx:202
+msgid "Account data may be deleted upon termination or inactivity"
+msgstr "ទិន្នន័យគណនីអាចត្រូវបានលុបនៅពេលបញ្ចប់ ឬមិនសកម្ម"
+
+#: app/[lang]/privacy-policy/page.tsx:66
+msgid "Account identifiers (username, user ID)"
+msgstr "អត្តសញ្ញាណគណនី (ឈ្មោះអ្នកប្រើប្រាស់, ID អ្នកប្រើប្រាស់)"
+
+#: app/[lang]/terms-and-conditions/page.tsx:105
+msgid "Account sharing, selling, or transferring is strictly prohibited."
+msgstr "ការចែករំលែក លក់ ឬផ្ទេរគណនីត្រូវបានហាមឃាត់យ៉ាងតឹងរ៉ឹង។"
+
+#: app/[lang]/terms-and-conditions/page.tsx:232
+msgid "Accounts may be terminated at our sole discretion."
+msgstr "គណនីអាចត្រូវបានបញ្ចប់តាមការសម្របសម្រួលរបស់យើងតែមួយគត់។"
+
+#: app/[lang]/terms-and-conditions/page.tsx:147
+msgid "All virtual currency, items, characters, and rewards remain the sole property of 32BitZ Studio and have no real-world value."
+msgstr "រូបិយប័ណ្ណផ្លូវការ ធាតុ តួអក្សរ និងរង្វាន់ទាំងអស់នៅតែជាកម្មសិទ្ធិរបស់ 32BitZ Studio ហើយគ្មានតម្លៃពិតប្រាកដ។"
+
+#: app/[lang]/privacy-policy/page.tsx:163
+msgid "Analytics and crash reporting"
+msgstr "ការវិភាគ និងការរាយការណ៍ការបរាជ័យ"
+
+#: app/[lang]/terms-and-conditions/page.tsx:200
+msgid "Attempts to disrupt servers will result in permanent bans."
+msgstr "ការព្យាយាមបំផ្លាញម៉ាស៊ីនមេនឹងនាំឱ្យមានការហាមឃាត់ជាអចិន្ត្រៃយ៍។"
+
+#: app/[lang]/news/page.tsx:46
+msgid "Back to Home"
+msgstr "ត្រលប់ទៅផ្ទះ"
+
+#: app/[lang]/news/[slug]/page.tsx:104
+msgid "Back to News"
+msgstr "ត្រលប់ទៅព័ត៌មាន"
+
+#: app/[lang]/terms-and-conditions/page.tsx:157
+msgid "Balances may be adjusted for balancing or security reasons."
+msgstr "សមតុល្យអាចត្រូវបានកែតម្រូវសម្រាប់ហេតុផលសមតុល្យ ឬសុវត្ថិភាព។"
+
+#: app/[lang]/privacy-policy/page.tsx:94
+msgid "Bank account or credit card numbers (handled by third parties)"
+msgstr "លេខគណនីធនាគារ ឬកាតឥណទាន (ដែលគ្រប់គ្រងដោយភាគីទីបី)"
+
+#: app/[lang]/privacy-policy/page.tsx:99
+msgid "Biometric or sensitive personal data"
+msgstr "ទិន្នន័យជីវមាត្រ ឬទិន្នន័យផ្ទាល់ខ្លួនដែលពាក់ព័ន្ធ"
+
+#: app/[lang]/terms-and-conditions/page.tsx:47
+msgid "By accessing, installing, downloading, registering, or playing <0> Shinobi War </0> (the “Game”), you acknowledge that you have read, understood, and agree to be legally bound by these Terms & Conditions (“Terms”). If you do not agree to these Terms, you must immediately discontinue all use of the Game."
+msgstr "ដោយការចូលប្រើប្រាស់ ដំឡើង ទាញយក ចុះឈ្មោះ ឬលេង<0> Shinobi War </0> (\"ហ្គេម\") អ្នកទទួលស្គាល់ថាអ្នកបានអាន យល់ និងយល់ព្រមឱ្យចងភ្ជាប់តាមផ្លូវច្បាប់ដោយលក្ខខណ្ឌ និងលក្ខខណ្ឌទាំងនេះ (\"លក្ខខណ្ឌ\")។ ប្រសិនបើអ្នកមិនយល់ព្រមនឹងលក្ខខណ្ឌទាំងនេះទេ អ្នកត្រូវតែបញ្ឈប់ការប្រើប្រាស់ហ្គេមទាំងអស់ភ្លាមៗ។"
+
+#: app/[lang]/terms-and-conditions/page.tsx:47
+#~ msgid "By accessing, installing, downloading, registering, or playing<0> Shinobi War </0> (the \"Game\"), you acknowledge that you have read, understood, and agree to be legally bound by these Terms & Conditions (\"Terms\"). If you do not agree to these Terms, you must immediately discontinue all use of the Game."
+#~ msgstr "ដោយការចូលប្រើប្រាស់ ដំឡើង ទាញយក ចុះឈ្មោះ ឬលេង<0> Shinobi War </0> (\"ហ្គេម\") អ្នកទទួលស្គាល់ថាអ្នកបានអាន យល់ និងយល់ព្រមឱ្យចងភ្ជាប់តាមផ្លូវច្បាប់ដោយលក្ខខណ្ឌ និងលក្ខខណ្ឌទាំងនេះ (\"លក្ខខណ្ឌ\")។ ប្រសិនបើអ្នកមិនយល់ព្រមនឹងលក្ខខណ្ឌទាំងនេះទេ អ្នកត្រូវតែបញ្ឈប់ការប្រើប្រាស់ហ្គេមទាំងអស់ភ្លាមៗ។"
+
+#: app/[lang]/terms-and-conditions/page.tsx:129
+msgid "Cheats, bots, exploits, or automation tools are forbidden."
+msgstr "ការកុហក បូត ការប្រើប្រាស់ ឬឧបករណ៍ស្វ័យប្រវត្តិត្រូវបានហាមឃាត់។"
+
+#: app/components/class-system-section.tsx:233
+msgid "class system"
+msgstr "ប្រព័ន្ធថ្នាក់"
+
+#: app/[lang]/privacy-policy/page.tsx:160
+msgid "Cloud hosting and server infrastructure"
+msgstr "ការផ្តល់ជូនពីពពក និងហេដ្ឋារចនាសម្ព័ន្ធម៉ាស៊ីនមេ"
+
+#: app/[lang]/privacy-policy/page.tsx:120
+msgid "Comply with legal obligations"
+msgstr "អនុវត្តតាមកាតព្វកិច្ចផ្លូវច្បាប់"
+
+#: app/components/footer.tsx:87
+msgid "Customer Support"
+msgstr "ការគាំទ្រអតិថិជន"
+
+#: app/[lang]/privacy-policy/page.tsx:212
+msgid "Deleted data may not be recoverable"
+msgstr "ទិន្នន័យដែលបានលុបអាចមិនអាចស្តារឡើងវិញបាន"
+
+#: app/[lang]/privacy-policy/page.tsx:241
+msgid "Depending on your jurisdiction, you may have the right to:"
+msgstr "អាស្រ័យលើអំណាចរបស់អ្នក អ្នកអាចមានសិទ្ធិ:"
+
+#: app/[lang]/privacy-policy/page.tsx:114
+msgid "Detect cheating, fraud, or abuse"
+msgstr "ការរកឃើញការកុហក ការបោកបញ្ចោត ឬការរំលោភបំពាន"
+
+#: app/[lang]/privacy-policy/page.tsx:69
+msgid "Device and technical data (IP address, device type, OS)"
+msgstr "ទិន្នន័យឧបករណ៍ និងបច្ចេកទេស (អាសយដ្ឋាន IP ប្រភេទឧបករណ៍ OS)"
+
+#: app/components/header.tsx:22
+msgid "DOWNLOAD"
+msgstr "ទាញយក"
+
+#: app/components/footer.tsx:90
+msgid "Download & Install"
+msgstr "ទាញយក និងដំឡើង"
+
+#: app/[lang]/terms-and-conditions/page.tsx:94
+msgid "Each user may create only one account unless expressly permitted."
+msgstr "អ្នកប្រើប្រាស់នីមួយៗអាចបង្កើតគណនីតែមួយប៉ុណ្ណោះ លើកលែងតែមានការអនុញ្ញាតយ៉ាងច្បាស់។"
+
+#: app/components/footer.tsx:60
+msgid "Email"
+msgstr "អ៊ីមែល"
+
+#: app/[lang]/privacy-policy/page.tsx:280
+#: app/[lang]/terms-and-conditions/page.tsx:279
+msgid "Email:"
+msgstr "អ៊ីមែល:"
+
+#: app/[lang]/terms-and-conditions/page.tsx:173
+msgid "Event content is temporary and may be removed at any time."
+msgstr "មាតិកាព្រឹត្តិការណ៍គឺបណ្តោះអាសន្ន និងអាចត្រូវបានដកចេញនៅពេលណាក៏បាន។"
+
+#: app/[lang]/terms-and-conditions/page.tsx:183
+msgid "Event rules may change without notice."
+msgstr "ច្បាប់ព្រឹត្តិការណ៍អាចផ្លាស់ប្តូរដោយមិនចាំបាច់ជូនដំណឹង។"
+
+#: app/[lang]/terms-and-conditions/page.tsx:197
+msgid "Exploiting bugs must be reported immediately."
+msgstr "ការប្រើប្រាស់កំហុសត្រូវតែរាយការណ៍ភ្លាមៗ។"
+
+#: app/components/header.tsx:26
+msgid "FANPAGE"
+msgstr "ទំព័រអ្នកគាំទ្រ"
+
+#: app/[lang]/terms-and-conditions/page.tsx:275
+msgid "For legal inquiries, contact:"
+msgstr "សម្រាប់ការសួរផ្លូវច្បាប់ សូមទំនាក់ទំនង:"
+
+#: app/[lang]/privacy-policy/page.tsx:74
+msgid "Gameplay data (progress, stats, achievements, logs)"
+msgstr "ទិន្នន័យការលេង (ការវិវត្ត ស្ថិតិ ការសម្រេចបាន កំណត់ត្រា)"
+
+#: app/components/header.tsx:27
+msgid "GROUP"
+msgstr "ក្រុម"
+
+#: app/components/header.tsx:24
+msgid "GUIDE"
+msgstr "មគ្គុទេសក៍"
+
+#: app/components/news-section.tsx:53
+msgid "guides"
+msgstr "មគ្គុទេសក៍"
+
+#: app/[lang]/terms-and-conditions/page.tsx:192
+msgid "Harassment, hate speech, or abusive behavior is prohibited."
+msgstr "ការរំលោភបំពាន ការនិយាយស្អប់ខពួក ឬឥរិយាបថរំលោភបំពានត្រូវបានហាមឃាត់។"
+
+#: app/components/news-section.tsx:65
+msgid "highlights"
+msgstr "ចំណុចសំខាន់"
+
+#: app/components/header.tsx:21
+msgid "HOME"
+msgstr "ទំព័រដើម"
+
+#: app/[lang]/privacy-policy/page.tsx:274
+msgid "If you have questions regarding this Privacy Policy, contact:"
+msgstr "ប្រសិនបើអ្នកមានសំណួរទាក់ទងនឹងនយោបាយភាពឯកជននេះ សូមទំនាក់ទំនង:"
+
+#: app/[lang]/privacy-policy/page.tsx:117
+msgid "Improve gameplay balance and performance"
+msgstr "កែលម្អសមតុល្យ និងការអនុវត្តការលេង"
+
+#: app/[lang]/layout.tsx:24
+msgid "Join the ultimate ninja warfare. Choose your class, master your weapons, and dominate the battlefield."
+msgstr "ចូលរួមការប្រយុទ្ធនិន្ជានុប្បវត្តិដ៏អស្ចារ្យ។ ជ្រើសរើសថ្នាក់របស់អ្នក ស្ទាត់អាវុធរបស់អ្នក និងគ្រប់គ្រងពិភពលោក។"
+
+#. placeholder {0}: new Date().toISOString().split("T")[0]
+#: app/[lang]/privacy-policy/page.tsx:35
+#: app/[lang]/terms-and-conditions/page.tsx:35
+msgid "Last updated: {0}"
+msgstr "អាប់ដេតចុងក្រោយ: {0}"
+
+#: app/[lang]/privacy-policy/page.tsx:145
+msgid "Legal obligations"
+msgstr "កាតព្វកិច្ចផ្លូវច្បាប់"
+
+#: app/[lang]/privacy-policy/page.tsx:140
+msgid "Legitimate interests (security, analytics, fraud prevention)"
+msgstr "ផលប្រយោជន៍ត្រឹមត្រូវ (សុវត្ថិភាព ការវិភាគ ការការពារការបោកបញ្ចោត)"
+
+#: app/components/footer.tsx:81
+msgid "More Information"
+msgstr "ព័ត៌មានបន្ថែម"
+
+#: app/components/news-section.tsx:41
+msgid "news"
+msgstr "ព័ត៌មាន"
+
+#: app/[lang]/news/page.tsx:50
+msgid "News"
+msgstr "ព័ត៌មាន"
+
+#: app/components/header.tsx:23
+msgid "NEWS"
+msgstr "ព័ត៌មាន"
+
+#: app/[lang]/terms-and-conditions/page.tsx:235
+msgid "No compensation will be provided for terminated accounts."
+msgstr "នឹងមិនមានការប indemnity សម្រាប់គណនីដែលបានបញ្ចប់ទេ។"
+
+#: app/[lang]/news/page.tsx:56
+#: app/components/news-section.tsx:88
+msgid "No news available"
+msgstr "គ្មានព័ត៌មាន"
+
+#: app/[lang]/terms-and-conditions/page.tsx:154
+msgid "No refunds for lost or modified virtual items."
+msgstr "មិនមានការសងប្រាក់សម្រាប់ធាតុផ្លូវការដែលបាត់បង់ ឬបានកែប្រែទេ។"
+
+#: app/[lang]/privacy-policy/page.tsx:253
+msgid "Object to certain processing activities"
+msgstr "ប្រឆាំងនឹងសកម្មភាពដំណើរការមួយចំនួន"
+
+#: app/[lang]/privacy-policy/page.tsx:108
+msgid "Operate and maintain the Game"
+msgstr "ដំណើរការ និងថែទាំហ្គេម"
+
+#: app/[lang]/privacy-policy/page.tsx:166
+msgid "Payment processors (transaction references only)"
+msgstr "អ្នកដំណើរការការទូទាត់ (មានតែការយោងប្រតិបត្តិការ)"
+
+#: app/[lang]/privacy-policy/page.tsx:137
+msgid "Performance of a contract (providing the Game)"
+msgstr "ការអនុវត្តកិច្ចសន្យា (ការផ្តល់ហ្គេម)"
+
+#: app/[lang]/privacy-policy/page.tsx:29
+#: app/components/footer.tsx:102
+msgid "Privacy Policy"
+msgstr "នយោបាយភាពឯកជន"
+
+#: app/[lang]/privacy-policy/page.tsx:111
+msgid "Provide customer support"
+msgstr "ផ្តល់ការគាំទ្រអតិថិជន"
+
+#: app/[lang]/privacy-policy/page.tsx:77
+msgid "Purchase and transaction metadata (non-payment credentials)"
+msgstr "ទិន្នន័យមេតាទិន្នន័យនៃការទិញ និងប្រតិបត្តិការ (លិខិតសម្គាល់មិនមែនការទូទាត់)"
+
+#: app/components/news-section.tsx:97
+msgid "Read More"
+msgstr "អានបន្ថែម"
+
+#: app/[lang]/privacy-policy/page.tsx:91
+msgid "Real-world identity documents"
+msgstr "ឯកសារអត្តសញ្ញាណពិតប្រាកដ"
+
+#: app/[lang]/privacy-policy/page.tsx:250
+msgid "Request correction or deletion"
+msgstr "ស្នើសុំកែប្រែ ឬលុប"
+
+#: app/[lang]/terms-and-conditions/page.tsx:134
+msgid "Reverse engineering or data mining is prohibited."
+msgstr "ការវិស្វកម្មបញ្ច្រាស់ ឬការជីកយកទិន្នន័យត្រូវបានហាមឃាត់។"
+
+#: app/[lang]/terms-and-conditions/page.tsx:178
+msgid "Rewards not claimed within event periods are forfeited."
+msgstr "រង្វាន់ដែលមិនបានទាមទារក្នុងរយៈពេលព្រឹត្តិការណ៍នឹងត្រូវបានបាត់បង់។"
+
+#: app/[lang]/privacy-policy/page.tsx:32
+#: app/[lang]/terms-and-conditions/page.tsx:32
+msgid "Shinobi War - Developed by 32BitZ Studio"
+msgstr "Shinobi War - អភិវឌ្ឍដោយ 32BitZ Studio"
+
+#: app/[lang]/layout.tsx:23
+msgid "Shinobi War - Epic Ninja Battle Game"
+msgstr "សង្គ្រាម Shinobi - ហ្គេមប្រយុទ្ធនិន្ជានុប្បវត្តិដ៏អស្ចារ្យ"
+
+#: app/[lang]/terms-and-conditions/page.tsx:60
+#~ msgid "Shinobi War is developed, owned, and operated by<0> 32BitZ Studio </0> (\"we\", \"us\", \"our\"). All rights not expressly granted to you are reserved by 32BitZ Studio."
+#~ msgstr "Shinobi War ត្រូវបានអភិវឌ្ឍន៍ មានកម្មសិទ្ធិ និងដំណើរការដោយ<0> 32BitZ Studio </0> (\"យើង\", \"ពួកយើង\", \"របស់យើង\")។ សិទ្ធិទាំងអស់ដែលមិនត្រូវបានផ្តល់ឱ្យអ្នកយ៉ាងច្បាស់ត្រូវបានរក្សាទុកដោយ 32BitZ Studio។"
+
+#: app/[lang]/terms-and-conditions/page.tsx:60
+msgid "Shinobi War is developed, owned, and operated by<0> 32BitZ Studio </0> (“we”, “us”, “our”). All rights not expressly granted to you are reserved by 32BitZ Studio."
+msgstr "Shinobi War ត្រូវបានអភិវឌ្ឍន៍ មានកម្មសិទ្ធិ និងដំណើរការដោយ<0> 32BitZ Studio </0> (\"យើង\", \"ពួកយើង\", \"របស់យើង\")។ សិទ្ធិទាំងអស់ដែលមិនត្រូវបានផ្តល់ឱ្យអ្នកយ៉ាងច្បាស់ត្រូវបានរក្សាទុកដោយ 32BitZ Studio។"
+
+#: app/[lang]/privacy-policy/page.tsx:220
+msgid "Shinobi War is not intended for children under the minimum legal age required in your jurisdiction. We do not knowingly collect personal data from children."
+msgstr "Shinobi War មិនមានបំណងសម្រាប់កុមារដែលមានអាយុក្រោមអាយុច្បាប់អប្បបរមាដែលត្រូវបានទាមទារនៅក្នុងអំណាចរបស់អ្នកទេ។ យើងមិនប្រមូលទិន្នន័យផ្ទាល់ខ្លួនពីកុមារដោយដឹងខ្លួនទេ។"
+
+#: app/[lang]/privacy-policy/page.tsx:207
+msgid "Some data may be retained for legal or security reasons"
+msgstr "ទិន្នន័យមួយចំនួនអាចត្រូវបានរក្សាទុកសម្រាប់ហេតុផលផ្លូវច្បាប់ ឬសុវត្ថិភាព"
+
+#: app/[lang]/privacy-policy/page.tsx:82
+msgid "Support communications and reports"
+msgstr "ការទំនាក់ទំនង និងរាយការណ៍ការគាំទ្រ"
+
+#: app/components/footer.tsx:71
+msgid "Support hours"
+msgstr "ម៉ោងគាំទ្រ"
+
+#: app/[lang]/terms-and-conditions/page.tsx:29
+#: app/components/footer.tsx:96
+msgid "Terms & Conditions"
+msgstr "លក្ខខណ្ឌ និងលក្ខខណ្ឌ"
+
+#: app/[lang]/terms-and-conditions/page.tsx:245
+#~ msgid "The Game is provided \"AS IS\" and \"AS AVAILABLE\" without warranties of any kind."
+#~ msgstr "ហ្គេមត្រូវបានផ្តល់ជូន \"ដូចដែលមាន\" និង \"ដូចដែលអាចប្រើបាន\" ដោយគ្មានការធានាប្រភេទណាមួយ។"
+
+#: app/[lang]/terms-and-conditions/page.tsx:245
+msgid "The Game is provided “AS IS” and “AS AVAILABLE” without warranties of any kind."
+msgstr ""
+
+#: app/[lang]/terms-and-conditions/page.tsx:265
+msgid "These Terms are governed by the laws applicable in the jurisdiction where 32BitZ Studio operates."
+msgstr "លក្ខខណ្ឌទាំងនេះត្រូវបានគ្រប់គ្រងដោយច្បាប់ដែលអាចអនុវត្តបាននៅក្នុងអំណាចដែល 32BitZ Studio ដំណើរការ។"
+
+#: app/[lang]/privacy-policy/page.tsx:47
+#~ msgid "This Privacy Policy explains how <0>32BitZ Studio</0>(\"we\", \"us\", \"our\") collects, uses, stores, and protects personal data when you access or play <1>Shinobi War</1> (the \"Game\"). By using the Game, you consent to the practices described in this Privacy Policy."
+#~ msgstr "នយោបាយភាពឯកជននេះពន្យល់ពីរបៀបដែល <0>32BitZ Studio</0> (\"យើង\", \"ពួកយើង\", \"របស់យើង\") ប្រមូល ប្រើប្រាស់ រក្សាទុក និងការពារទិន្នន័យផ្ទាល់ខ្លួននៅពេលអ្នកចូលប្រើប្រាស់ ឬលេង <1>Shinobi War</1> (\"ហ្គេម\")។ ដោយការប្រើប្រាស់ហ្គេម អ្នកយល់ព្រមនឹងការអនុវត្តដែលបានពិពណ៌នានៅក្នុងនយោបាយភាពឯកជននេះ។"
+
+#: app/[lang]/privacy-policy/page.tsx:47
+msgid "This Privacy Policy explains how <0>32BitZ Studio</0>(“we”, “us”, “our”) collects, uses, stores, and protects personal data when you access or play <1>Shinobi War</1> (the “Game”). By using the Game, you consent to the practices described in this Privacy Policy."
+msgstr ""
+
+#: app/[lang]/terms-and-conditions/page.tsx:255
+msgid "To the fullest extent permitted by law, 32BitZ Studio shall not be liable for indirect, incidental, or consequential damages."
+msgstr "ក្នុងកម្រិតអតិបរមាដែលច្បាប់អនុញ្ញាត 32BitZ Studio នឹងមិនទទួលខុសត្រូវចំពោះការខូចខាតដោយប្រយោល ចៃដន្យ ឬជាលទ្ធផលទេ។"
+
+#: app/components/header.tsx:25
+msgid "TOP UP"
+msgstr "បន្ថែមទឹកប្រាក់"
+
+#: app/[lang]/terms-and-conditions/page.tsx:137
+msgid "Unauthorized modifications will result in permanent bans."
+msgstr "ការកែប្រែដោយគ្មានការអនុញ្ញាតនឹងនាំឱ្យមានការហាមឃាត់ជាអចិន្ត្រៃយ៍។"
+
+#: app/[lang]/terms-and-conditions/page.tsx:162
+msgid "Virtual assets are non-transferable and non-refundable."
+msgstr "ទ្រព្យសកម្មផ្លូវការមិនអាចផ្ទេរ និងមិនអាចសងប្រាក់បានទេ។"
+
+#: app/components/visual-gallery-section.tsx:92
+msgid "visual gallery"
+msgstr "វិចិត្រសាល"
+
+#: app/components/footer.tsx:50
+msgid "Warning: Playing more than 180 minutes per day may negatively affect your health."
+msgstr "ការព្រមាន: ការលេងច្រើនជាង 180 នាទីក្នុងមួយថ្ងៃអាចប៉ះពាល់អវិជ្ជមានដល់សុខភាពរបស់អ្នក។"
+
+#: app/[lang]/privacy-policy/page.tsx:170
+msgid "We do <0>not</0> sell or rent your personal data."
+msgstr "យើង<0>មិន</0>លក់ ឬជួលទិន្នន័យផ្ទាល់ខ្លួនរបស់អ្នកទេ។"
+
+#: app/[lang]/terms-and-conditions/page.tsx:210
+msgid "We do not guarantee preservation of progress, data, rankings, or virtual assets. Data loss may occur due to updates, resets, or security actions."
+msgstr "យើងមិនធានាការរក្សាទុកការវិវត្ត ទិន្នន័យ ចំណាត់ថ្នាក់ ឬទ្រព្យសកម្មផ្លូវការទេ។ ការបាត់បង់ទិន្នន័យអាចកើតឡើងដោយសារតែការអាប់ដេត ការកំណត់ឡើងវិញ ឬសកម្មភាពសុវត្ថិភាព។"
+
+#: app/[lang]/terms-and-conditions/page.tsx:121
+msgid "We grant you a limited, revocable, non-exclusive, non-transferable license to use the Game solely for personal, non-commercial purposes."
+msgstr "យើងផ្តល់ឱ្យអ្នកនូវអាជ្ញាប័ណ្ណមានកំណត់ អាចលុបចោលបាន មិនផ្តាច់មុខ មិនអាចផ្ទេរបាន ដើម្បីប្រើប្រាស់ហ្គេមតែសម្រាប់គោលបំណងផ្ទាល់ខ្លួន និងមិនមែនពាណិជ្ជកម្មប៉ុណ្ណោះ។"
+
+#: app/[lang]/privacy-policy/page.tsx:190
+msgid "We implement reasonable technical and organizational measures to protect your data. However, no system is 100% secure, and we cannot guarantee absolute security."
+msgstr "យើងអនុវត្តវិធានការបច្ចេកទេស និងអង្គការដែលសមហេតុផលដើម្បីការពារទិន្នន័យរបស់អ្នក។ ទោះជាយ៉ាងណាក៏ដោយ គ្មានប្រព័ន្ធណាមួយមានសុវត្ថិភាព 100% ទេ ហើយយើងមិនអាចធានាសុវត្ថិភាពដាច់ខាតបានទេ។"
+
+#: app/[lang]/privacy-policy/page.tsx:60
+msgid "We may collect the following categories of information:"
+msgstr "យើងអាចប្រមូលព័ត៌មានក្នុងប្រភេទខាងក្រោម:"
+
+#: app/[lang]/privacy-policy/page.tsx:153
+msgid "We may share limited data with trusted third-party service providers strictly for operational purposes, such as:"
+msgstr "យើងអាចចែករំលែកទិន្នន័យមានកំណត់ជាមួយអ្នកផ្តល់សេវាភាគីទីបីដែលអាចទុកចិត្តបានតឹងរ៉ឹងសម្រាប់គោលបំណងប្រតិបត្តិការ ដូចជា:"
+
+#: app/[lang]/terms-and-conditions/page.tsx:111
+msgid "We may suspend or terminate accounts without prior notice."
+msgstr "យើងអាចផ្អាក ឬបញ្ចប់គណនីដោយមិនចាំបាច់ជូនដំណឹងជាមុនទេ។"
+
+#: app/[lang]/privacy-policy/page.tsx:264
+msgid "We may update this Privacy Policy at any time. Continued use of the Game constitutes acceptance of the updated Policy."
+msgstr "យើងអាចអាប់ដេតនយោបាយភាពឯកជននេះនៅពេលណាក៏បាន។ ការប្រើប្រាស់ហ្គេមបន្តគឺជាការទទួលយកនយោបាយដែលបានអាប់ដេត។"
+
+#: app/[lang]/privacy-policy/page.tsx:128
+msgid "We process personal data based on one or more of the following:"
+msgstr "យើងដំណើរការទិន្នន័យផ្ទាល់ខ្លួនដោយផ្អែកលើមួយ ឬច្រើនពីខាងក្រោម:"
+
+#: app/[lang]/terms-and-conditions/page.tsx:221
+msgid "We reserve the right to modify, update, suspend, or discontinue any part of the Game at any time without liability."
+msgstr "យើងរក្សាសិទ្ធិក្នុងការកែប្រែ អាប់ដេត ផ្អាក ឬបញ្ឈប់ផ្នែកណាមួយនៃហ្គេមនៅពេលណាក៏បានដោយគ្មានការទទួលខុសត្រូវ។"
+
+#: app/[lang]/privacy-policy/page.tsx:179
+msgid "We retain personal data only for as long as necessary to fulfill the purposes outlined in this Policy, unless a longer retention period is required by law."
+msgstr "យើងរក្សាទុកទិន្នន័យផ្ទាល់ខ្លួនតែរយៈពេលដែលចាំបាច់ដើម្បីបំពេញគោលបំណងដែលបានពិពណ៌នានៅក្នុងនយោបាយនេះ លើកលែងតែរយៈពេលរក្សាទុកយូរជាងនេះត្រូវបានទាមទារដោយច្បាប់។"
+
+#: app/[lang]/privacy-policy/page.tsx:256
+msgid "Withdraw consent where applicable"
+msgstr "ដកយកការយល់ព្រមនៅកន្លែងដែលអាចអនុវត្តបាន"
+
+#: app/[lang]/news/[slug]/page.tsx:114
+msgid "Written by"
+msgstr "សរសេរដោយ"
+
+#: app/[lang]/terms-and-conditions/page.tsx:100
+msgid "You are responsible for all activity under your account."
+msgstr "អ្នកទទួលខុសត្រូវចំពោះសកម្មភាពទាំងអស់នៅក្រោមគណនីរបស់អ្នក។"
+
+#: app/[lang]/terms-and-conditions/page.tsx:83
+msgid "You are solely responsible for compliance with local laws."
+msgstr "អ្នកទទួលខុសត្រូវតែមួយគត់ចំពោះការអនុវត្តតាមច្បាប់ក្នុងស្រុក។"
+
+#: app/[lang]/terms-and-conditions/page.tsx:77
+msgid "You must have full legal capacity to enter into a binding agreement."
+msgstr "អ្នកត្រូវតែមានសមត្ថភាពផ្លូវច្បាប់ពេញលេញដើម្បីចូលកិច្ចសន្យាដែលមានភាពចងភ្ជាប់។"
+
+#: app/[lang]/terms-and-conditions/page.tsx:72
+msgid "You must meet the minimum age requirement in your jurisdiction."
+msgstr "អ្នកត្រូវតែបំពេញតម្រូវការអាយុអប្បបរមានៅក្នុងអំណាចរបស់អ្នក។"
+
+#: app/[lang]/privacy-policy/page.tsx:134
+msgid "Your consent"
+msgstr "ការយល់ព្រមរបស់អ្នក"
+
+#: app/[lang]/privacy-policy/page.tsx:231
+msgid "Your data may be processed or stored on servers located outside your country. By using the Game, you consent to such transfers."
+msgstr "ទិន្នន័យរបស់អ្នកអាចត្រូវបានដំណើរការ ឬរក្សាទុកនៅលើម៉ាស៊ីនមេដែលស្ថិតនៅក្រៅប្រទេសរបស់អ្នក។ ដោយការប្រើប្រាស់ហ្គេម អ្នកយល់ព្រមនឹងការផ្ទេរបែបនេះ។"

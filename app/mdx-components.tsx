@@ -1,7 +1,9 @@
+"use client";
+
 import type { MDXComponents } from "mdx/types";
 import React from "react";
 import Image from "next/image";
-import Link from "next/link";
+import LinkWithLocale from "@/app/components/link-with-locale";
 
 /**
  * Custom MDX components for enhanced rendering
@@ -105,13 +107,13 @@ const createComponents = (): MDXComponents => {
     // Enhanced link component
     a: ({ href, children, ...props }) => {
       return (
-        <Link
+        <LinkWithLocale
           href={href || "#"}
           className="text-blue-500 hover:text-blue-600 underline"
           {...props}
         >
           {children}
-        </Link>
+        </LinkWithLocale>
       );
     },
 

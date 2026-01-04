@@ -4,6 +4,7 @@ import Image from "next/image";
 import { useState } from "react";
 import { blackpast } from "@/utils/fonts";
 import classBtn from "@/public/images/classes/class-btn.png";
+import { Trans, useLingui } from "@lingui/react/macro";
 
 const CLASSES = [
   {
@@ -16,8 +17,25 @@ const CLASSES = [
       "/images/classes/Katana-skill-3.png",
       "/images/classes/Katana-skill-4.png",
       "/images/classes/Katana-skill-5.png",
+      "/images/classes/Katana-skill-6.png",
+      "/images/classes/Katana-skill-7.png",
+      "/images/classes/Katana-skill-8.png",
+      "/images/classes/Katana-skill-9.png",
+      "/images/classes/Katana-skill-10.png",
+      "/images/classes/Katana-skill-11.png",
+      "/images/classes/Katana-skill-12.png",
+      "/images/classes/Katana-skill-13.png",
+      "/images/classes/Katana-skill-14.png",
+      "/images/classes/Katana-skill-15.png",
     ],
-    type: "/images/classes/fire.png",
+    type: {
+      en: "/images/classes/fire-en.png",
+      th: "/images/classes/fire-th.png",
+      km: "/images/classes/fire-km.png",
+      cn: "/images/classes/fire-cn.png",
+      ja: "/images/classes/fire-ja.png",
+      kr: "/images/classes/fire-kr.png",
+    },
     title: "/images/classes/title-katana.png",
   },
   {
@@ -25,13 +43,30 @@ const CLASSES = [
     name: "shuriken",
     image: "/images/classes/shuriken.png",
     skills: [
-      "/images/classes/Suriken-skill-1.png",
-      "/images/classes/Suriken-skill-2.png",
-      "/images/classes/Suriken-skill-3.png",
-      "/images/classes/Suriken-skill-4.png",
-      "/images/classes/Suriken-skill-5.png",
+      "/images/classes/Shuriken-skill-1.png",
+      "/images/classes/Shuriken-skill-2.png",
+      "/images/classes/Shuriken-skill-3.png",
+      "/images/classes/Shuriken-skill-4.png",
+      "/images/classes/Shuriken-skill-5.png",
+      "/images/classes/Shuriken-skill-6.png",
+      "/images/classes/Shuriken-skill-7.png",
+      "/images/classes/Shuriken-skill-8.png",
+      "/images/classes/Shuriken-skill-9.png",
+      "/images/classes/Shuriken-skill-10.png",
+      "/images/classes/Shuriken-skill-11.png",
+      "/images/classes/Shuriken-skill-12.png",
+      "/images/classes/Shuriken-skill-13.png",
+      "/images/classes/Shuriken-skill-14.png",
+      "/images/classes/Shuriken-skill-15.png",
     ],
-    type: "/images/classes/fire.png",
+    type: {
+      en: "/images/classes/fire-en.png",
+      th: "/images/classes/fire-th.png",
+      km: "/images/classes/fire-km.png",
+      cn: "/images/classes/fire-cn.png",
+      ja: "/images/classes/fire-ja.png",
+      kr: "/images/classes/fire-kr.png",
+    },
     title: "/images/classes/title-shuriken.png",
   },
   {
@@ -44,22 +79,56 @@ const CLASSES = [
       "/images/classes/Yumi-skill-3.png",
       "/images/classes/Yumi-skill-4.png",
       "/images/classes/Yumi-skill-5.png",
+      "/images/classes/Yumi-skill-6.png",
+      "/images/classes/Yumi-skill-7.png",
+      "/images/classes/Yumi-skill-8.png",
+      "/images/classes/Yumi-skill-9.png",
+      "/images/classes/Yumi-skill-10.png",
+      "/images/classes/Yumi-skill-11.png",
+      "/images/classes/Yumi-skill-12.png",
+      "/images/classes/Yumi-skill-13.png",
+      "/images/classes/Yumi-skill-14.png",
+      "/images/classes/Yumi-skill-15.png",
     ],
-    type: "/images/classes/fire.png",
+    type: {
+      en: "/images/classes/water-en.png",
+      th: "/images/classes/water-th.png",
+      km: "/images/classes/water-km.png",
+      cn: "/images/classes/water-cn.png",
+      ja: "/images/classes/water-ja.png",
+      kr: "/images/classes/water-kr.png",
+    },
     title: "/images/classes/title-yumi.png",
   },
   {
     id: 3,
     name: "kunai",
-    image: "/images/classes/kunai-2.png",
+    image: "/images/classes/kunai.png",
     skills: [
       "/images/classes/Kunai-skill-1.png",
       "/images/classes/Kunai-skill-2.png",
       "/images/classes/Kunai-skill-3.png",
       "/images/classes/Kunai-skill-4.png",
       "/images/classes/Kunai-skill-5.png",
+      "/images/classes/Kunai-skill-6.png",
+      "/images/classes/Kunai-skill-7.png",
+      "/images/classes/Kunai-skill-8.png",
+      "/images/classes/Kunai-skill-9.png",
+      "/images/classes/Kunai-skill-10.png",
+      "/images/classes/Kunai-skill-11.png",
+      "/images/classes/Kunai-skill-12.png",
+      "/images/classes/Kunai-skill-13.png",
+      "/images/classes/Kunai-skill-14.png",
+      "/images/classes/Kunai-skill-15.png",
     ],
-    type: "/images/classes/fire.png",
+    type: {
+      en: "/images/classes/water-en.png",
+      th: "/images/classes/water-th.png",
+      km: "/images/classes/water-km.png",
+      cn: "/images/classes/water-cn.png",
+      ja: "/images/classes/water-ja.png",
+      kr: "/images/classes/water-kr.png",
+    },
     title: "/images/classes/title-kunai.png",
   },
   {
@@ -72,8 +141,25 @@ const CLASSES = [
       "/images/classes/Naginata-skill-3.png",
       "/images/classes/Naginata-skill-4.png",
       "/images/classes/Naginata-skill-5.png",
+      "/images/classes/Naginata-skill-6.png",
+      "/images/classes/Naginata-skill-7.png",
+      "/images/classes/Naginata-skill-8.png",
+      "/images/classes/Naginata-skill-9.png",
+      "/images/classes/Naginata-skill-10.png",
+      "/images/classes/Naginata-skill-11.png",
+      "/images/classes/Naginata-skill-12.png",
+      "/images/classes/Naginata-skill-13.png",
+      "/images/classes/Naginata-skill-14.png",
+      "/images/classes/Naginata-skill-15.png",
     ],
-    type: "/images/classes/fire.png",
+    type: {
+      en: "/images/classes/wind-en.png",
+      th: "/images/classes/wind-th.png",
+      km: "/images/classes/wind-km.png",
+      cn: "/images/classes/wind-cn.png",
+      ja: "/images/classes/wind-ja.png",
+      kr: "/images/classes/wind-kr.png",
+    },
     title: "/images/classes/title-naginata.png",
   },
   {
@@ -86,14 +172,33 @@ const CLASSES = [
       "/images/classes/Tessen-skill-3.png",
       "/images/classes/Tessen-skill-4.png",
       "/images/classes/Tessen-skill-5.png",
+      "/images/classes/Tessen-skill-6.png",
+      "/images/classes/Tessen-skill-7.png",
+      "/images/classes/Tessen-skill-8.png",
+      "/images/classes/Tessen-skill-9.png",
+      "/images/classes/Tessen-skill-10.png",
+      "/images/classes/Tessen-skill-11.png",
+      "/images/classes/Tessen-skill-12.png",
+      "/images/classes/Tessen-skill-13.png",
+      "/images/classes/Tessen-skill-14.png",
+      "/images/classes/Tessen-skill-15.png",
     ],
-    type: "/images/classes/fire.png",
+    type: {
+      en: "/images/classes/wind-en.png",
+      th: "/images/classes/wind-th.png",
+      km: "/images/classes/wind-km.png",
+      cn: "/images/classes/wind-cn.png",
+      ja: "/images/classes/wind-ja.png",
+      kr: "/images/classes/wind-kr.png",
+    },
     title: "/images/classes/title-tessen.png",
   },
 ];
 
 export default function ClassSystemSection() {
   const [selectedClass, setSelectedClass] = useState("katana");
+  const { i18n } = useLingui();
+  const lang = i18n.locale;
 
   const selectedClassImage = CLASSES.find(
     (cl) => cl.name === selectedClass
@@ -125,7 +230,7 @@ export default function ClassSystemSection() {
         <h2
           className={`text-center text-blue-500 text-7xl mb-20 ${blackpast.className}`}
         >
-          class system
+          <Trans>class system</Trans>
         </h2>
         <div className="grid lg:grid-cols-2 gap-4 items-center justify-center">
           <div className="flex items-center justify-center relative size-[400px] xl:size-[600px] mx-auto">
@@ -139,19 +244,22 @@ export default function ClassSystemSection() {
             <Image
               src={selectedClassImage || ""}
               alt={selectedClass || ""}
-              width={600}
-              height={600}
-              className="z-10 pointer-events-none size-[400px] xl:size-[600px]"
+              width={640}
+              height={830}
+              className="z-10 pointer-events-none w-[400px] h-[520px] xl:w-[640px] xl:h-[830px]"
             />
           </div>
           <div className="flex flex-col items-center justify-center gap-10">
             <div className="flex flex-col items-center">
               <Image
-                src={selectedClassType || ""}
+                src={
+                  selectedClassType?.[lang as keyof typeof selectedClassType] ||
+                  ""
+                }
                 alt={selectedClass || ""}
-                width={560}
+                width={400}
                 height={100}
-                className="pointer-events-none object-cover w-[300px] xl:w-[560px]"
+                className="pointer-events-none object-cover w-[300px] xl:w-[400px]"
               />
               <Image
                 src={selectedClassTitle || ""}
@@ -190,7 +298,7 @@ export default function ClassSystemSection() {
               <span
                 className={`${blackpast.className} text-2xl pointer-events-none bg-clip-text text-transparent bg-linear-to-r from-[#C09645] via-[#FFC977] to-[#C09645]`}
               >
-                {cl.name}
+                <Trans>{cl.name}</Trans>
               </span>
             </p>
           </button>

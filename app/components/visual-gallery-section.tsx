@@ -3,6 +3,7 @@
 import Image from "next/image";
 import { useState, useEffect, useRef } from "react";
 import { blackpast } from "@/utils/fonts";
+import { Trans } from "@lingui/react/macro";
 
 export default function VisualGallerySection() {
   const [currentSlide, setCurrentSlide] = useState(0);
@@ -88,7 +89,7 @@ export default function VisualGallerySection() {
         <h2
           className={`text-center text-blue-500 text-7xl mb-20 ${blackpast.className}`}
         >
-          visual gallery
+          <Trans>visual gallery</Trans>
         </h2>
 
         <div
