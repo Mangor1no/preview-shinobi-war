@@ -76,7 +76,7 @@ function FloatTopup() {
             />
           </div>
           <QRCode
-            value="https://www.google.com" // replace with universal link later
+            value={process.env.NEXT_PUBLIC_DOWNLOAD_QR as string}
             size={183}
             className="rounded-xl border border-[#2c313d] p-6 bg-[#131825]"
             fgColor="#3084FA"
