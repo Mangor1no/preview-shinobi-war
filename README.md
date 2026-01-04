@@ -20,6 +20,31 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
+## Environment Variables
+
+This project requires several environment variables to be configured. Create a `.env.local` file in the root directory with the following variables:
+
+```bash
+# Base URL for the application (used for metadata and Open Graph images)
+NEXT_PUBLIC_BASE_URL=https://your-domain.com
+
+# Download links for different platforms
+NEXT_PUBLIC_DOWNLOAD_APPSTORE=https://apps.apple.com/app/your-app-id
+NEXT_PUBLIC_DOWNLOAD_GOOGLE_PLAY=https://play.google.com/store/apps/details?id=your.app.id
+NEXT_PUBLIC_DOWNLOAD_PC=https://your-domain.com/download/pc
+NEXT_PUBLIC_DOWNLOAD_APK=https://your-domain.com/download/app.apk
+
+# QR code value/link for download
+NEXT_PUBLIC_DOWNLOAD_QR=https://your-domain.com/download
+```
+
+### Notes
+
+- All environment variables prefixed with `NEXT_PUBLIC_` are exposed to the browser
+- For local development, you can use `http://localhost:3000` as the `NEXT_PUBLIC_BASE_URL`
+- Make sure to add `.env.local` to your `.gitignore` file to avoid committing sensitive information
+- For production, set these variables in your hosting platform's environment variable settings (e.g., Vercel, Netlify)
+
 ## Creating News Posts
 
 To create a new news post with a thumbnail image, follow these steps:
